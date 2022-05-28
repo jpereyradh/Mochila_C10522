@@ -1,0 +1,5 @@
+a. Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+b. El actual dueño de Github es Microsoft, ya que en 2018 compró a esta misma por 7500 millones de dólares. 
+c. Si, trabajar desde un framework 
+
+
