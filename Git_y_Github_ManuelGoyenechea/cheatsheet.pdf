@@ -1,0 +1,16 @@
+$git init / Agrega archivos al working directory.
+$git add / Agrega archivos al staging area.
+$git commit -m / Mueve archivos del staging area al respository.
+$git push origin <branch> / Sube archivos al repostiorio remoto.
+$git pull origin <branch> / Descarga archivos del repositorio remoto.
+$git config user.name / Configura la cuenta de github.
+$git config user.email / Configura la cuenta de github.
+$git remote add origin "url de repositorio" / Vincularse al repositorio remoto.
+$git clone / Clonar repositorio existente.
+$git log / Historial de commits.
+$git restore / Descartar cambios.
+$git rm --cached "nombre archivo" / devuelve archivo al working directory.
+$git branch <branch> / Crea o muestra branchs existentes.
+$git checkout <branch> / Entra a branch existente.
+$git branch -d <branch> / Elimina branch existente.
+git reset / Devuelve archivo a fase anterior. 
