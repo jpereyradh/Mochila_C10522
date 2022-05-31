@@ -1,0 +1,3 @@
+A:Hoy en día, Git es, con diferencia, el sistema de control de versiones moderno más utilizado del mundo. Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+B:GitHub, Inc. Npm, Inc. GitHub Inc. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
+C:si desde la interfaz grafica del usuario
