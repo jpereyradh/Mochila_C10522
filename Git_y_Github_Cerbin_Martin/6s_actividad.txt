@@ -1,0 +1,13 @@
+RESPUESTAS
+
+A)  Git fue desarrollado originalmente por Linus Torvalds el famoso creador del kernel del sistema operativo Linux.
+    Linus Torvalds buscaba un sistema distribuido que pudiera usar en forma semejante a BitKeeper,
+    pero ninguno de los sistemas bajo software libre disponibles cumplía con sus requerimientos,
+    especialmente en cuanto a desempeño, lo que lleva a Linus a desarrollar Git, este mantiene una enorme cantidad de código distribuida
+    y gestionada por mucha gente, que incide en numerosos detalles de rendimiento,
+    y de la necesidad de rapidez en una primera implementación.
+
+B)  Microsoft compró GitHub en 2018, por la cantidad de 7500 millones de dólares.
+    Microsoft consideró a GitHub como la plataforma de desarrollo de software líder en todo el mundo.
+
+C)  Aparte de la terminal existen app propias de git, pero estas no son tan potentes como la terminal. 
