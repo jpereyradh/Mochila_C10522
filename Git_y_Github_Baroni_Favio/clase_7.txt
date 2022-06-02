@@ -1,0 +1,25 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+b. ¿A quién pertenece actualmente Github y por qué?
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+A)El sistema de control de versiones fue creado por Linus Torvalds, el mismisimo creador del S.O. Linux.
+Durante la mayor parte del mantenimiento del kernel de Linux (1991-2002), los cambios en el software se 
+realizaban a través de parches y archivos. En el 2002, el proyecto del kernel de Linux empezó a usar un 
+DVCS propietario llamado BitKeeper.
+ 
+Fue en 2005 cuando surgieron diferencias éticas entre los desrrolladores, entre ellos Larry McVoy, el 
+autor principal de BitKeeper Linus Torvalds y Andrew "Tridge" Tridgel. Apartir de ese mismo año la herramienta
+dejó de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de Linux  a desarrollar su propia 
+herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper. 
+--------------------------------------------------------------------------------------------------------------------
+B)Desde 2018 a la actualidad la empresa Git y Github son propiedad de Microsoft. En los años previos a la 
+adquisición, Microsoft ha dado un giro radical en torno al Open Source y Linux. 
+Entre la liberación del código, perteneciente a .NET y su último hito, el lanzamiento de SQL Server 2017
+para GNU/Linux la compañía forjó una alianza con Red Hat, se adhirió a The Linux Foundation y se comprometió
+en el desarrollo de Visual Studio Code.
+El propósito de este viraje hacia el Open Source es el de promocionar y posicionar aplicaciones y tecnologías
+propias dirigidas principalmente a desarrolladores y administradores de sistemas. 
+--------------------------------------------------------------------------------------------------------------------
+C)Si, todas las versiones del Sistema Operativo Linux, Visual Studio Code, MacOs y la Terminal de Windows o 'Windows Terminal'.  
+
+
