@@ -1,0 +1,3 @@
+1- Linus TorvaldsEl inventor del sistema de control de versiones fue inventado por Linus TorvaldLinus Torvalds s. Lo inventó para poder monitonizar y gestionar cambios en un sistema de archivos.
+2- Actualmente GitHub pertenece a Microsoft dado que lo compró en el año 2018 por 7.500 millones de Dolares. 
+3- Si quieres trabajar con Git de forma local, pero no quieres utilizar la línea de comandos, puedes descargar e instalar el cliente de GitHub Desktop en su lugar. 
