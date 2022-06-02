@@ -1,0 +1,16 @@
+Plants vs Zombie   2 mb
+Coded Arms          49,8 mb
+Street Fighter        78,2 mb
+Need for Speed      121 mb
+Residente Evil        363 mb
+Driver                     491,4 mb
+Metal Slug             663 mb
+Burnout                 682 mb
+MotorStorm          752 mb
+Crash                     834 mb
+Pes 2013                 975 mb
+
+La suma de mb da 5011.4 mb, todos los otros juegos pesan más de un gb, por tanto, si agregamos
+cualquiera de ellos supera la capacidad de memoria disponible. De esta manera entra la mayor
+cantidad de juegos, 11 en total.
+
