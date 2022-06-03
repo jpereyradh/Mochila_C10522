@@ -1,0 +1,27 @@
+Punto 9: Si, se pueden crear las carpetas del punto 2 en un solo comando, con el siguiente: 
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh
+$ mkdir Peliculas/Infantiles Peliculas/Accion Peliculas/Terror Peliculas/Comedia Peliculas/Romanticas
+
+Si, se pueden crear los archivos del punto 3 en un solo comando, con el siguiente:
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh/Peliculas
+$ touch Infantiles/Intenzamente.txt Infantiles/"El juego del miedo.xls" Infantiles/"Rapido y furioso.pdf" Infantiles/Titanic.jpg
+
+Comando para la creacion de la carpeta "Prueba" dentro de "Romanticas" desde "dh":
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh
+$ mkdir Peliculas/Romanticas/Prueba
+
+Comando para la creacion de la carpeta "Prueba2" dentro de "Accion" desde dentro de la carpeta "Romanticas":
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh/Peliculas/Romanticas
+$ mkdir ../Accion/Prueba2
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas
+$ rm Romanticas/Prueba/noBorrar.js 
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas
+$ rmdir Romanticas/Prueba/
+
+

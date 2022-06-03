@@ -1,0 +1,141 @@
+Adriel@DESKTOP-PR26PPI MINGW64 ~
+$ cd Desktop/dh/Peliculas/Infantiles/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Infantiles
+$ mv "El juego del miedo.xls" ../Terror/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Infantiles
+$ mv "Rapido y furioso.pdf" ../Accion/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Infantiles
+$ mv Titanic.jpg ../Romanticas/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/infantiles
+$ cd ../Accion/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Accion
+$ mv "Diario de una pasion.js" ../Romanticas/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Accion
+$ mv "El hexorcista.xls" ../Terror/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Accion
+$ mv Cars.jpg ../Infantiles/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Accion
+$ cd ../Terror
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Terror
+$ mv "La dama y el bagavundo.png" ../Infantiles/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Terror
+$ mv "Yo antes de ti.xls" ../Romanticas/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Terror
+$ mv "Que paso ayer.pdf" ../Comedia/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Terror
+$ cd ../Comedia/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Comedia
+$ mv Madagaskar.js ../Infantiles/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Comedia
+$ mv "Orgullo y prejuicio.txt" ../Romanticas/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Comedia
+$ mv IT.xls ../Terror/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Comedia
+$ mv "Mision imposible.png" ../Accion/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Comedia
+$ cd ../Romanticas/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Romanticas
+$ mv Pocahontas.jpg ../Infantiles/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Romanticas
+$ mv Annabelle.js ../Terror/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Romanticas
+$ mv "Los vengadores.js" ../Accion/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Romanticas
+$ mv "La mascara.js" ../Comedia/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas/Romanticas
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+'Los vengadores.js'  'Mision imposible.png'   Prueba2/  'Rapido y furioso.pdf'  'Smooth criminal.txt'
+
+./Accion/Prueba2:
+
+./Comedia:
+'La mascara.js'  'Que paso ayer.pdf'
+
+./Infantiles:
+ Cars.jpg   Intenzamente.txt  'La dama y el bagavundo.png'   Madagaskar.js   Pocahontas.jpg
+
+./Romanticas:
+'Diario de una pasion.js'  'Orgullo y prejuicio.txt'   Prueba/   Titanic.jpg  'Yo antes de ti.xls'
+
+./Romanticas/Prueba:
+
+./Terror:
+ Annabelle.js  'El hexorcista.xls'  'El juego del miedo.xls'   IT.xls  'We will rock you.js'
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh
+$ mv Peliculas/Infantiles/Intenzamente.txt Peliculas/Infantiles/Intensamente.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh
+$ mv Peliculas/Infantiles/"La dama y el bagavundo.png" Peliculas/Infantiles/"La dama y el vagabundo.png"
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh
+$ mv Peliculas/Infantiles/Madagaskar.js Peliculas/Infantiles/Madagascar.js
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh
+$ mv Peliculas/Terror/"El hexorcista.xls" Peliculas/Terror/"El exorcista.xls"
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh
+$ rm Peliculas/Accion/Smooth\ criminal.txt 
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh
+$ rm Peliculas/Terror/"We will rock you.js"
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh
+$ touch Peliculas/Accion/Prueba2/ noBorrar.js
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh
+$ cd Peliculas/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas
+$ mv ./Accion/Prueba2/noBorrar.js ./Romanticas/Prueba/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh
+$ touch camadax.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh
+$ cd Peliculas/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas
+$ mv Terror/IT.xls ./Infantiles/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/dh/Peliculas
+$ rm ../camadax.txt 
+
+
+
+

@@ -1,0 +1,1 @@
+Lo que vamos a hacer hoy es un repaso sobre la utilizacion de las terminales, ayudandonos con un programa que tendremos que descargar llamado "GitBash" y con el que pondremos en practica todo lo que aprendimos en la materia y en las clases del playground. :)

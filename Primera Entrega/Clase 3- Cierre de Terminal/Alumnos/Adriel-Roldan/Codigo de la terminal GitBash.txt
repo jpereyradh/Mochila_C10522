@@ -1,0 +1,64 @@
+Adriel@DESKTOP-PR26PPI MINGW64 ~
+$ cd desktop
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop
+$ mkdir dh
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop
+$ cd dh
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh
+$ mkdir Peliculas
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh
+$ mkdir Peliculas/Infantiles Peliculas/Accion Peliculas/Terror Peliculas/Comedia Peliculas/Romanticas
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh
+$ cd Peliculas/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh/Peliculas
+$ touch Infantiles/Intenzamente.txt Infantiles/"El juego del miedo.xls" Infantiles/"Rapido y furioso.pdf" Infantiles/Titanic.jpg
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh/Peliculas
+$ touch Accion/"La dama y el bagavundo.png" Accion/"Diario de una pasion.js" Accion/"El hexorcista.xls" Accion/Cars.jpg
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh/Peliculas
+$ touch Terror/"La dama y el bagavundo.png" Terror/"Yo antes de ti.xls" Terror/"Que paso ayer.pdf" Terror/"We will rock you.js"
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh/Peliculas
+$ touch Comedia/Madagaskar.js Comedia/"Orgullo y prejuicio.txt" Comedia/IT.xls Comedia/"Mision imposible.png"
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh/Peliculas
+$ touch Romanticas/Pocahontas.jpg Romanticas/Annabelle.js Romanticas/"Los vengadores.js" Romanticas/"La mascara.js"
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y furioso.pdf'   Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'clear
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh/Peliculas
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh
+$ mkdir Peliculas/Romanticas/Prueba
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh
+$ cd Peliculas/Romanticas/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/dh/Peliculas/Romanticas
+$ mkdir ../Accion/Prueba2

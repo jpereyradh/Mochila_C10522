@@ -1,0 +1,293 @@
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/informes/auditoria
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/informes
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop
+$ cd digital_house
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house
+$ cd repaso_clase_1y2/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2
+$ cd historia_de_la_contabilidad/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ rm repaso.txt
+rm: cannot remove 'repaso.txt': Is a directory
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ ls
+repaso.txt/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ rmdir repaso.txt/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ ls\
+> ls
+bash: lsls: command not found
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ ls
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ touch repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ ls
+repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2
+$ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+
+./interfaces_de_usuario:
+
+./que_haremos_hoy:
+
+./servidores:
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2
+$ cd historia_de_la_contabilidad/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ cp repaso.txt ../infraestructura
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ cp repaso.txt ../interfaces_de_usuario ../que_haremos_hoy ../servidores
+cp: -r not specified; omitting directory '../interfaces_de_usuario'
+cp: -r not specified; omitting directory '../que_haremos_hoy'
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/historia_de_la_contabilidad
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2
+$ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+repaso.txt
+
+./interfaces_de_usuario:
+
+./que_haremos_hoy:
+
+./servidores:
+repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2
+$ cd servidores/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/servidores
+$ cp repaso.txt ../interfaces_de_usuarios repaso.txt ../que_haremos_hoy
+cp: cannot stat '../interfaces_de_usuarios': No such file or directory
+cp: warning: source file 'repaso.txt' specified more than once
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/servidores
+$ cd .//
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/servidores
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2
+$ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+repaso.txt
+
+./interfaces_de_usuario:
+
+./que_haremos_hoy:
+repaso.txt
+
+./servidores:
+repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2
+$ cd servidores/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/servidores
+$ cp repaso.txt ../interfaces_de_usuario
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2/servidores
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/desktop/digital_house/repaso_clase_1y2
+$ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+repaso.txt
+
+PARTE QUE HICE EN VSCODE
+ 
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop
+$ cd digital_house/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house
+$ cd repaso_clase_1y2/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ mv que_haremos_hoy software_y_hardware infraestructura git_bash_y_vscode
+mv: target 'git_bash_y_vscode' is not a directory
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ ls
+historia_de_la_informatica/  interfaces_de_usuario/  servidores/
+infraestructura/             que_haremos_hoy/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ mv infraestructura git_bash_y_vscode
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ ls
+git_bash_y_vscode/           interfaces_de_usuario/  servidores/
+historia_de_la_informatica/  que_haremos_hoy/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ cd git_bash_y_vscode/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/git_bash_y_vscode
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/git_bash_y_vscode
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ cd interfaces_de_usuario/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/interfaces_de_usuario
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/interfaces_de_usuario
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/interfaces_de_usuario
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/interfaces_de_usuario
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ ls
+git_bash_y_vscode/           interfaces_de_usuario/  servidores/
+historia_de_la_informatica/  que_haremos_hoy/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ cd servidores/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/servidores   
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/servidores   
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ cd historia_de_la_informatica/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/historia_de_la_informatica
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/historia_de_la_informatica
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ cd que_haremos_hoy/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/que_haremos_hoy
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/que_haremos_hoy
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ ls
+git_bash_y_vscode/           interfaces_de_usuario/  servidores/
+historia_de_la_informatica/  que_haremos_hoy/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ cd git_bash_y_vscode/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/git_bash_y_vscode
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/git_bash_y_vs
+code
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ cd interfaces_de_usuario/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/interfaces_de_usuario
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/interfaces_de_usuario
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ ls
+git_bash_y_vscode/           interfaces_de_usuario/  servidores/
+historia_de_la_informatica/  que_haremos_hoy/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ cd servidores/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/servidores   
+$ nano.exe
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/servidores   
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/servidores   
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ cd historia_de_la_informatica/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/historia_de_la_informatica
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/historia_de_la_informatica
+$ cd ../
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ ls
+git_bash_y_vscode/           interfaces_de_usuario/  servidores/
+historia_de_la_informatica/  que_haremos_hoy/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2
+$ cd que_haremos_hoy/
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/que_haremos_hoy
+$ nano repaso.txt
+
+Adriel@DESKTOP-PR26PPI MINGW64 ~/Desktop/digital_house/repaso_clase_1y2/que_haremos_hoy
+$
