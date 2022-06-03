@@ -1,0 +1,147 @@
+  
+  ❗❗❗❗❗ History de la consola ❗❗❗❗❗
+
+
+  181  cd repaso/
+  182  git init
+  183  git add README.md
+  184  touch README.md
+  185  git add README.md
+  186  git commit -m "añadiendo readme"
+  187  git branch -M main
+  188  git remote add origin https://github.com/juanpablo008/class_5.git
+  189  git push -u origin main
+  190  nano README.md 
+  191  git add README.md
+  192  git commit -m "escribiendo titulo en el readme"
+  193  git push -u origin main
+  194  git clone https://github.com/juanpablo008/class_5.git
+  195  ls
+  196  cd class_5/
+  197  LS
+  198  mv Introducción\ a\ la\ ingeniería/clasa5/README.md ./
+  199  ls
+  201  rm -r Introducción\ a\ la\ ingeniería/
+  202  ls
+  204  git add .
+  205  git commit -m "correccion carpetas"
+  206  git push origin main
+  208  touch Bulbasaur.txt Ivysaur.txt Venusaur.txt
+  209  ls
+  210  nano Bulbasaur.txt 
+  211  nano Ivysaur.txt 
+  212  nano Venusaur.txt 
+  214  cat Bulbasaur.txt 
+  215  git add .
+  216  git commit -m "agregando pokemones de Juan"
+  217  git status
+  218  git add .
+  219  git status
+  220  git commit -m "agregando pokemones de Juan"
+  221  git commit -m "agregando pokemones de juan"
+  222  ls
+  223  cd class_5/
+  224  git commit -m "agregando pokemones de juan"
+  225  git push origin main
+  226  git pull
+  227  cd class_5/
+  228  git pull origin main
+  229  ls
+  230  git add .
+  231  git commit -m "agregando pokemones de juan"
+  232  git push origin main
+  233  nano charizard.txt 
+  234  nano charmander.txt 
+  235  nano charmeleon.txt 
+  236  git add .
+  237  git commit -m "agregando contenido a los pokemones de mer"
+  239  git push origin main
+  240  git pull
+  241  nano Bulbasaur.txt 
+  242  git pull
+  243  nano Bulbasaur.txt 
+  244  git pull
+  245  nano Bulbasaur.txt 
+  246  git add .
+  247  git commit -m "juan agrega contenido al mismo archivo"
+  248  git push origin main
+  249  git pull
+  250  nano Bulbasaur.txt 
+  
+  //////////////////////////////////// continuación de la actividad
+
+  308  ls -R
+  309  cd class_5/
+  310  nano Ivysaur.txt 
+  311  git status
+  313  nano charizard.txt 
+  314  git pull
+  315  git add .
+  316  git commit -m "agregando contenido a Ivy"
+  317  git push origin main
+  318  git pull
+  319  nano Ivysaur.txt 
+  320  git add .
+  321  git commit -m "conservando lo de juan"
+  322  git push origin main
+  323  ls -R
+  324  nano Venusaur.txt 
+  325  git add .
+  326  git commit -m "agregando contenido a Venu"
+  327  git push origin main
+  328  git pull
+  329  nano Venusaur.txt 
+  330  git add .
+  331  git commit -m "conservando cambios de mer"
+  332  git push origin main
+  333  git branch juan_pablo
+  334  git checkout juan_pablo 
+  335  git status
+  336  git pull origin main
+  337  lr -R
+  338  ls -R
+  339  nano Bulbasaur.txt 
+  340  git status
+  341  git add .
+  342  git commit -m "Creando nueva rama"
+  343  git push origin juan-pablo
+  344  git push origin juan_pablo
+  345  git pull 
+  346  ls -R
+  347  git pull origin juan_pablo
+  348  ls -R
+  349  git checkout main
+  350  git status
+  351  git pull origin main
+  352  git merge juan_pablo
+  353  git add .
+  354  git commit -m "merge"
+  355  git push origin main
+  356  git checkout juan_pablo 
+  357  nano merEnRamaDeJP.txt 
+  358  git add .
+  359  git status
+  360  git commit -m "editando juan"
+  361  git push origin juan_pablo
+  362  git checkout main
+  363  git merge juan_pablo
+  364  nano merEnRamaDeJP.txt 
+  365  git commit -m "merge desde juan"
+  366  git push origin main
+  367  git pull
+  368  nano merEnRamaDeJP.txt 
+  369  git add .
+  370  git commit -m "merge desde juan"
+  371  git push origin main
+  372  cd ..
+  373  history > history.txt
+
+
+
+
+repositorio: https://github.com/juanpablo008/class_5
+integrantes: 
+Mercedes Lucero
+Juan Pablo Bedoya
+
+

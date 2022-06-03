@@ -1,0 +1,79 @@
+<<<<<<<<<<<<<<<< PARTE 1 >>>>>>>>>>>>>>>>>>>>>
+
+¿Se pueden crear las carpetas del punto 2 en un solo comando? En caso que la
+respuesta sea positiva escribir el comando
+	Si se puede, mkdir -p DH/Peliculas/{Infantiles,Accion,Terror,Comedia,Romanticas}
+
+¿Se pueden crear los archivos del punto 3 en un solo comando? En caso que la
+respuesta sea positiva escribir el comando	
+	Si se puede, 
+	     touch 
+		DH/Peliculas/Infantiles/{Intenzamente.txt,"El juego del miedo".xls,"Rapido y furioso".pdf,Titanic.jpg} 
+		DH/Peliculas/Accion/{"Smooth criminal".txt,"Diario de una pasion".js,"El hexorcista".xls,Cars.jpg} 
+		DH/Peliculas/Terror/{"La dama y el bagavundo".png,"Yo antes de ti".xls,"Que paso ayer".pdf,"We will rock you".js} 
+		DH/Peliculas/Comedia/{Madagaskar.js,"Orgullo y prejuicio".txt,IT.xls,"Mision imposible".png} 
+		DH/Peliculas/Romanticas/{Pocahontas.jpg,Annabelle.js,"Los vengadores".js,"La mascara".js}
+
+Estando ubicados en la carpeta DH crear una carpeta llamada Prueba dentro de
+la carpeta Romanticas en un solo comando y escribirlo aquí
+	mkdir DH/Peliculas/Romanticas/Prueba
+
+
+Estando ubicados en la carpeta Romanticas crear una carpeta llamada Prueba2
+dentro de la carpeta Accion
+	 mkdir ../Accion/Prueba2
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+Comando para crear la estructura de carpetas y archivos >>>>>
+  
+  1  mkdir -p DH/Peliculas/{Infantiles,Accion,Terror,Comedia,Romanticas}
+  2  ls -R
+  3  touch DH/Peliculas/Infantiles/{Intenzamente.txt,"El juego del miedo".xls,"Rapido y furioso".pdf,Titanic.jpg} DH/Peliculas/Accion/{"Smooth criminal".txt,"Diario de una pasion".js,"El hexorcista".xls,Cars.jpg} DH/Peliculas/Terror/{"La dama y el bagavundo".png,"Yo antes de ti".xls,"Que paso ayer".pdf,"We will rock you".js} DH/Peliculas/Comedia/{Madagaskar.js,"Orgullo y prejuicio".txt,IT.xls,"Mision imposible".png} DH/Peliculas/Romanticas/{Pocahontas.jpg,Annabelle.js,"Los vengadores".js,"La mascara".js}
+  4  ls -R
+  5  mkdir DH/Peliculas/Romanticas/Prueba
+  6  ls -R
+  7  cd DH/Peliculas/Romanticas/
+  8  mkdir ../Accion/Prueba2
+  9  ls -R
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<< PARTE 2 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+  1  mv DH/Peliculas/Accion/Cars.jpg DH/Peliculas/Infantiles/
+  2  mv DH/Peliculas/Accion/Diario\ de\ una\ pasion.js DH/Peliculas/Romanticas/
+  3  mv DH/Peliculas/Accion/El\ hexorcista.xls DH/Peliculas/Terror/
+  4  mv DH/Peliculas/Comedia/IT.xls DH/Peliculas/Terror/
+  5  mv DH/Peliculas/Comedia/Madagaskar.js DH/Peliculas/Infantiles/
+  6  mv DH/Peliculas/Comedia/Mision\ imposible.png DH/Peliculas/Accion/
+  7  mv DH/Peliculas/Comedia/Orgullo\ y\ prejuicio.txt DH/Peliculas/Romanticas/
+  8  mv DH/Peliculas/Infantiles/El\ juego\ del\ miedo.xls DH/Peliculas/Terror/
+  9  mv DH/Peliculas/Infantiles/Titanic.jpg DH/Peliculas/Romanticas/
+  10  mv DH/Peliculas/Infantiles/Rapido\ y\ rutioso.pdf DH/Peliculas/Accion/
+  10  mv DH/Peliculas/Romanticas/Annabelle.js DH/Peliculas/Terror/
+  11  mv DH/Peliculas/Romanticas/La\ mascara.js DH/Peliculas/Terror/
+  12  mv DH/Peliculas/Romanticas/Los\ vengadores.js DH/Peliculas/Accion/
+  13  mv DH/Peliculas/Romanticas/Pocahontas.jpg DH/Peliculas/Infantiles/
+  14  mv DH/Peliculas/Terror/La\ dama\ y\ el\ bagavundo.png DH/Peliculas/Infantiles/
+  15  mv DH/Peliculas/Terror/Que\ paso\ ayer.pdf DH/Peliculas/Comedia/
+  16  mv DH/Peliculas/Terror/Yo\ antes\ de\ ti.xls DH/Peliculas/Romanticas/
+  17  cd DH/
+  18  mv Peliculas/Infantiles/Intenzamente.txt Peliculas/Infantiles/Intensamente.txt
+  19  mv Peliculas/Infantiles/La\ dama\ y\ el\ bagavundo.png Peliculas/Infantiles/La\ dama\ y\ el\ vagabundo.png
+  20  mv Peliculas/Infantiles/Madagaskar.js Peliculas/Infantiles/Madagascar.js
+  21  rm Peliculas/Accion/Smooth\ criminal.txt Peliculas/Terror/We\ will\ rock\ you.js
+  22  ls -R
+  23  touch Peliculas/Accion/Prueba2/noBorrar.js
+  24  cd Peliculas/
+  25  mv Accion/Prueba2/noBorrar.js Romanticas/Prueba/
+  26  cd ..
+  27  touch camadax.txt
+  28  ls
+  29  cd Peliculas/
+  30  mv Terror/IT.xls Infantiles/
+  31  rm ../camadax.txt
+  32  rm -r Romanticas/Prueba/
+  33  ls -R
+
+
+  https://prnt.sc/--3Y93lT7IW5

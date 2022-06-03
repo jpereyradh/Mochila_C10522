@@ -1,0 +1,73 @@
+  205  cd Desktop/Digital\ House/Intro\ la\ Info/
+  206  ls
+  207  cd wk02\ -\ gitHub/
+  208  mkdir clonado
+  209  cd clonado/
+  210  git clone https://github.com/juanpablo008/class_5.git
+  211  cd class_5/
+  212  git pull
+  213  touch charmander.txt charmeleon.txt charizard.txt
+  214  nano charmander.txt 
+  215  nano charmeleon.txt 
+  216  nano charizard.txt 
+  217  git add .
+  218  git commit -m "los charmander y los demas"
+  219  git push
+  220  git pull
+  221  git pull
+  222  nano Bulbasaur.txt 
+  223  nano Venusaur.txt 
+  224  nano Ivysaur.txt 
+  225  git add .
+  226  git commit -m "mer les agrega texto a las cosas de juan"
+  227  git push origin main
+  228  git pull
+  229  git push origin main
+  230  nano Bulbasaur.txt 
+  231  git add .
+  232  git commit -m "mer agrega texto a bulba"
+  233  git push origin main
+  234  git pull
+  235  nano charizard.txt 
+  236  git clone https://github.com/jpereyradh/Mochila_C10522.git
+  237  git checkout -b Lucero_Mercedes
+  238  cd Mochila_C10522/
+  239  git checkout -b Lucero_Mercedes
+  240  nano Ivysaur.txt 
+  241  git add .
+  242  git commit -m "modifica mer ivysaur"
+  243  git push origin main
+  244  git pull origin main
+  245  nano Venusaur.txt 
+  246  git add .
+  247  git commit -m "mer modifica venu"
+  248  git push origin main
+  249  git pull
+  250  git branch Mercedes
+  251  git checkout Mercedes 
+  252  nano charizard.txt 
+  253  git add .
+  254  git commit -m "mer crea su rama y modifica charizard"
+  255  git push origin main
+  256  git push origin Mercedes
+  257  git pull
+  258  git checkout juan_pablo 
+  259  touch merEnRamaDeJP.txt
+  260  git add .
+  261  git commit -m "mer se mete en la rama de JP"
+  262  git push origin juan_pablo 
+  263  git checkout Merc
+  264  git checkout Mercedes 
+  265  git pull
+  266  git pull origin main
+  267  nano merEnRamaDeJP.txt 
+  268  git add .
+  269  git commit -m "mer modifica jp"
+  270  git push origin Mercedes 
+  271  git checkout main
+  272  git merge Mercedes
+  273  git add .
+  274  git commit -m "mer merge"
+  275  git push origin main
+  276  cd ..
+  277  history > history.txt

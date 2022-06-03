@@ -1,0 +1,17 @@
+1  pwd
+2  mkdir -p dh/repaso_clase_1y2/{historia_de_la_contabilidad,servidores,interfaces_de_usuario,infraestructura,que_haremos_hoy}
+3  ls -R
+4  touch dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.html  dh/repaso_clase_1y2/que_haremos_hoy/repaso.py  dh/repaso_clase_1y2/servidores/repaso.js  dh/repaso_clase_1y2/interfaces_de_usuario/repaso.rar  dh/repaso_clase_1y2/infraestructura/repaso.png
+5  ls -R
+6  mv ./repaso_clase_1y2/historia_de_la_contabilidad/ ./repaso_clase_1y2/historia_de_la_informatica/
+7  mv ./repaso_clase_1y2/que_haremos_hoy/ ./repaso_clase_1y2/software_y_hardware/
+8  mv repaso_clase_1y2/infraestructura/ ./repaso_clase_1y2/git_bash_y_vscode/
+9  ls -R
+10  nano repaso_clase_1y2/git_bash_y_vscode/repaso.png
+11  nano repaso_clase_1y2/historia_de_la_informatica/repaso.html
+12  nano repaso_clase_1y2/interfaces_de_usuario/repaso.rar
+13  nano repaso_clase_1y2/servidores/repaso.js
+14  nano repaso_clase_1y2/software_y_hardware/repaso.py
+15  history > "consigna 1".txt
+
+https://prnt.sc/qYieqL5GBs6Q
