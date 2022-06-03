@@ -1,0 +1,51 @@
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop (main)
+$ mkdir DH
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop (main)
+$ cd DH
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop/DH (main)
+$ mkdir Peliculas
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop/DH (main)
+$ cd Peliculas
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop/DH/Peliculas (main)
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop/DH/Peliculas (main)
+$ touch Infantiles/"Intenzamente.txt" Infantiles/"El juego del miedo.xls" Infantiles/"Rapido y Furioso.pdf" Infantiles/"Titanic.jpg"
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop/DH/Peliculas (main)
+$ touch Accion/"Smooth criminal.txt" Accion/"Diario de una pasion.js" Accion/"El hexorcista.xls" Accion/"Cars.jpg"
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop/DH/Peliculas (main)
+$ touch Terror/"La dama y el bagavundo.png" Terror/"Yo antes de ti.xls" Terror/"Que paso ayer.pdf" Terror/"we will rock you.js"
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop/DH/Peliculas (main)
+$ touch Comedia/"Madagaskar.js" Comedia/"Orgullo y prejuicio.txt" Comedia/"It.xls" Comedia/"Mision imposible.png"
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop/DH/Peliculas (main)
+$ touch Romanticas/"Pocahontas.jpg" Romanticas/"Annabelle.js" Romanticas/"Los vengadores.js" Romanticas/"La mascara.js"
+
+José@DESKTOP-RHOT9GK MINGW64 ~/Desktop/DH/Peliculas (main)
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+./Comedia:
+ It.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y Furioso.pdf'   Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'Yo antes de ti.xls'  'we will rock you.js'
+
