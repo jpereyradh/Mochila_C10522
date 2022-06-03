@@ -1,5 +1,0 @@
-1. Linus Torvalds y lo creo como una herramienta de software que monitoriza y gestiona cambios en un sistema de archivos.
-
-2. Le pertenece a Microsoft dado que lo compro por 7500 Millones de dolares
-
-3. Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades.
