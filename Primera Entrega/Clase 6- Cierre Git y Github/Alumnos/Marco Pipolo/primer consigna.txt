@@ -1,0 +1,18 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+b. ¿A quién pertenece actualmente Github y por qué?
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+a - Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+b - El actual dueño de Github es Microsoft, ya que en 2018 compró a esta misma por 7500 millones de dólares. 
+C - Si, trabajando desde un framework 
+
+
+SEGUNDA CONSIGNA
+
+Git init = Inicializamos un repositorio local.
+git status= Chequeamos el estado de los archivos y directorios dentro del repo local.
+git add  <nombredelarchivo> = Agrego el archivos o directorio con sus cambios correspondiente.
+git add . = Agrega todos los archivos o directorios en estado untrucked con sus cambios correspondientes
+git commit -m “mensaje” = Confirmó los cambios establecidos anteriormente y dejó registro de los mismos.
+git push = Subo los cambios al repositorio remoto
+git pull = Bajo al repositorio local los cambios del repositorio remoto.
