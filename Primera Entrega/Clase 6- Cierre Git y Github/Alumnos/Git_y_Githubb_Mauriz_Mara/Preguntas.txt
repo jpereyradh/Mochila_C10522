@@ -1,0 +1,6 @@
+Quien invento el sistema de control de version Git y porque?
+Linus Torbals, creador de Linux en 2005. Pensando en la eficiencia, confiabilidad y compatibilidad en el control de versiones.
+a quien pertenece Githubb y porque?
+es de Microsoft porque querian hacer honor a su amor por el open source
+Hay otra forma de trabajar en Githubb que no sea la terminal?
+Se puede usar VS code
