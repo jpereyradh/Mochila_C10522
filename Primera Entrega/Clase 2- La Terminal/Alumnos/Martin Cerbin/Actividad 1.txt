@@ -1,0 +1,47 @@
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA
+$ mkdir DH
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA
+$ cd DH
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ mkdir repaso_clase1y2
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ cd repaso_clase1y2/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/repaso_clase1y2
+$ mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuarios infraestructura
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/repaso_clase1y2
+$ touch historia_de_la_contabilidad/repaso.txt servidores/repaso.pdf interfaces_de_usuarios/repaso.png que_haremos_hoy/repaso.doc infraestructura/repaso.mp3
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/repaso_clase1y2
+$ cd ../
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ ls -r
+repaso_clase1y2/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ ls -R
+.:
+repaso_clase1y2/
+
+./repaso_clase1y2:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuarios/  que_haremos_hoy/  servidores/
+
+./repaso_clase1y2/historia_de_la_contabilidad:
+repaso.txt
+
+./repaso_clase1y2/infraestructura:
+repaso.mp3
+
+./repaso_clase1y2/interfaces_de_usuarios:
+repaso.png
+
+./repaso_clase1y2/que_haremos_hoy:
+repaso.doc
+
+./repaso_clase1y2/servidores:
+repaso.pdf
