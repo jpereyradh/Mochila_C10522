@@ -1,0 +1,14 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+  
+    Linus Torvalds desarrollo el sistemas de versiones Git.
+    Git se creo para solucionar los problemas que traia trabajar con 
+    archivos o parches para solucionar problemas de software 
+
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+    actualmente git pertenece a la compania de Microsoft
+
+c. ¿Hay otra forma que no sea la terminal para trabaja con Github?
+
+    Si, con software de control de versiones que ofrece Github
