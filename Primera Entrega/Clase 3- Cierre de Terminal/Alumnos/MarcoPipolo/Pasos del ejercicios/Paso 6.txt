@@ -1,0 +1,31 @@
+9) Si el resultado coincide con la plantilla guía de la diapositiva anterior resolver las 
+siguientes preguntas 
+● 1 ¿Se pueden crear las carpetas del punto 2 en un solo comando? En caso que la 
+respuesta sea positiva escribir el comando
+● 2 ¿Se pueden crear los archivos del punto 3 en un solo comando? En caso que la 
+respuesta sea positiva escribir el comando
+● 3 Estando ubicados en la carpeta DH crear una carpeta llamada Prueba dentro de 
+la carpeta Romanticas en un solo comando y escribirlo aquí. 
+● 4 Estando ubicados en la carpeta Romanticas crear una carpeta llamada Prueba2
+dentro de la carpeta Accion
+
+
+1/ Si se puede:
+mkdir infantiles accion terror comedia romanticas 
+siempre cuando no alla una carpeta indentica
+
+2/ si se puede por ej con la carpeta terror el codigo seria:
+touch "la dama y el bagabundo".png "yo antes de ti".xls "que paso ayer".pdf "we will rock you".js
+
+
+3/
+Marco@DESKTOP-6138U67 MINGW64 /d/Digital house/INTRODUCION A LA INFORMATICA/Ejercicios/Practica De Introducción A La Informática - C1/Clase 3- Cierre de Terminal/DH
+$ mkdir peliculas/romantica/prueba
+
+4/
+ Marco@DESKTOP-6138U67 MINGW64 /d/Digital house/INTRODUCION A LA INFORMATICA/Ejercicios/Practica De Introducción A La Informática - C1/Clase 3- Cierre de Terminal/DH/peliculas/romantica
+$ mkdir ../accion/prueba2
+
+
+
+
