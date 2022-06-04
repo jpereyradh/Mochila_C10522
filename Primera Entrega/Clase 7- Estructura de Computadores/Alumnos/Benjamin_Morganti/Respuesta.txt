@@ -1,0 +1,19 @@
+CPU: Procesador AMD Ryzen 5 5600 4.4GHz Turbo + Wraith Stealth Cooler
+
+Motherboard: Mother ASUS ROG STRIX b450-F GAMING II AM4
+
+Memoria RAM: Memoria Adata DDR4 16GB 3200MHz XPG Spectrix D60G RGB
+
+Memoria secundaria: Disco Solido SSD M.2 Team 4TB Cardea Zero Z340 3400MB/s NVMe PCI-E x4
+
+Placa de video: Placa de Video Zotac GeForce RTX 3090 24GB GDDR6X Trinity
+
+Fuente: Fuente XFX PS1600PG 1600w 80 Plus Gold Full Modular	
+
+Gabinete: Gabinete Kolink Observatory Black 4x120mm Coolers ARGB Vidrio Templado 
+
+Para Marcelo el intel i3 debido a que solo lo va a usar para office.
+
+Matilda lo va a usar para gaming prlo que necesita un procesador de altao  performance como el ryzen 5 3600. Tiene mejor rendimiento que el A8.
+
+Para el hermano mayor que necesita hacer edicion de video un AMD a8 le sirve.
