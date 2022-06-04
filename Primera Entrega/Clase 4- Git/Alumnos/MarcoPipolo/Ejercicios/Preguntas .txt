@@ -1,0 +1,11 @@
+1) MOMENTO 1 PASO 8 : Que paso con el directorio db ?
+2) MOEMENTO 2 PASO 6: Se guardo lo importante ?
+3) MOMENTO 3 PASO 1 : Esta biien el nombre del commit?
+4) MOMENTO 5 PASO 3 : Que hace este paso?
+5) MOMENTO 5 PASO 6 : Que paso aca?
+
+1) el directorio db no se añadio porque no contiene porque no tiene nada mas para commitiar.
+2) solo se modifico el archivoapp. jss.
+3) si el nombre del commit esta bien.
+4)el git restore restablece el archivo a su contenido anterior, perdiendo los cambios que realizaras.
+5) no se pudo hacer un commit porque le falto cerra el el mensaje con las comillas ("git commit -m configuaracion).
