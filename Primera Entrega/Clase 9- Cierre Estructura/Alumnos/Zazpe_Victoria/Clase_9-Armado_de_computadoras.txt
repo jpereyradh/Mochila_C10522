@@ -1,0 +1,67 @@
+ARMADO DE COMPUTADORAS
+
+Deberemos armar computadoras por gama (baja, media, alta), donde cada una de estas serán o compatibles con 
+Intel o AMD.
+El tercer ordenador debe ser armado a libre criterio del estudiante
+
+
+Gama baja - Intel
+Procesador		Core i3 7100
+Placa madre		Asrock Intel H310cm-hdv
+Memoria principal	Memoria Adata DDR4 4GB 2666MHz Value
+Memoria secundaria	Disco rígido WD Blue 500 gb
+
+	
+Gama baja - AMD	
+Procesador		Ryzen 3 2200g
+Placa madre		Mother Gigabyte AB350M V2.0 DS3H AM4
+Memoria principal	Memoria Adata DDR4 4GB 2666MHz Value
+Memoria secundaria	Disco rígido WD Blue 500 gb
+	
+Gama baja - AMD (libre elección)
+Procesador		Procesador AMD Athlon 3000G 3.5GHz AM4
+Placa madre		Mother Gigabyte AB350M V2.0 DS3H AM4
+Memoria principal	Memoria Adata DDR4 4GB 2666MHz Value
+Memoria secundaria	Disco rígido WD Blue 500 gb
+
+Gama media - Intel	
+Procesador		Procesador Intel Core i3 10100F 4.3GHz Turbo 1200 Comet Lake
+Placa madre		Mother Gigabyte H510M H M-ATX S1200
+Memoria principal	2 Memorias Adata DDR4 4GB 2666MHz Value
+Memoria secundaria	Disco rígido WD Blue 1 tb
+GPU			GeForce GT 1030 2GD4 LP OC
+	
+Gama media - AMD	
+Procesador		Asrock A320M
+Placa madre		Mother Gigabyte H510M H M-ATX S1200
+Memoria principal	2 Memorias Adata DDR4 4GB 2666MHz Value
+Memoria secundaria	Disco rígido WD Blue 1 tb
+GPU			GeForce GT 1030 2GD4 LP OC
+	
+Gama media - Intel (libre elección)	
+Procesador		Procesador Intel Core i3 10100F 4.3GHz Turbo 1200 Comet Lake
+Placa madre		Mother Gigabyte H510M H M-ATX S1200
+Memoria principal	2 Memorias Adata DDR4 4GB 2666MHz Value
+Memoria secundaria	Disco rígido WD Blue 1 tb
+GPU			Placa de Video Asrock Radeon RX 550 2GB GDDR5 Phantom Gaming
+
+Gama alta - Intel	
+Procesador		Core i7-10700
+Placa madre		Mother ASUS PRIME B560M-A S1200 11th Gen PCIe 4.0
+Memoria principal	2 Memorias Adata DDR4 8GB 3200MHz XPG Spectrix D41 X TUF Gaming RGB
+Memoria secundaria	Disco Solido SSD M.2 ADATA 2TB XPG Gammix S70 Blade 7400MB/s NVMe PCI-E 4.0 x4
+GPU			Placa de Video Zotac GeForce RTX 3060 12GB GDDR6 Twin Edge LHR
+	
+Gama alta - AMD	
+Procesador		Amd Ryzen 7 3800xt
+Placa madre		Mother ASUS PRIME B550-PLUS AM
+Memoria principal	2 Memorias Adata DDR4 8GB 3200MHz XPG Spectrix D41 X TUF Gaming RGB
+Memoria secundaria	Disco Solido SSD M.2 ADATA 2TB XPG Gammix S70 Blade 7400MB/s NVMe PCI-E 4.0 x4
+GPU			Placa de Video Zotac GeForce RTX 3060 12GB GDDR6 Twin Edge LHR
+	
+Gama alta - Intel	
+Procesador		Core i7-10700
+Placa madre		Mother ASUS PRIME B560M-A S1200 11th Gen PCIe 4.0
+Memoria principal	2 Memorias Adata DDR4 8GB 3200MHz XPG Spectrix D41 X TUF Gaming RGB
+Memoria secundaria	Disco Solido SSD M.2 ADATA 2TB XPG Gammix S70 Blade 7400MB/s NVMe PCI-E 4.0 x4
+GPU			Placa de Video Zotac GeForce RTX 3060 12GB GDDR6 Twin Edge LHR
