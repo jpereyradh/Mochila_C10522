@@ -1,0 +1,457 @@
+"Smooth criminal.txt" "Diario de una pasion.js" "El hexorcista.xls" Cars.jpg
+
+"La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" "We will rock you.js"
+
+"Madagaskar.js" "Orgullo y prejuicio.txt" "IT.xls" "Mision imposible.png"
+
+Pocahontas.jpg Annabelle.js "Los vengadores.js" "La mascara.js"
+
+"Smooth criminal.txt" "We will rock you.js"
+
+
+
+TODO
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh
+$ cd peliculas
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas
+$ cd infantiles
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas/infantiles
+$ touch Intenzamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas/infantiles
+$ cd ../Accion
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas/accion
+$ touch "Smooth criminal.txt" "Diario de una pasion.js" "El hexorcista.xls" Cars.jpg
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas/accion
+$ cd ../Terror
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas/terror
+$ touch "La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" "We will rock you.js"
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas/terror
+$ cd ../Comedia
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas/comedia
+$ touch "Madagaskar.js" "Orgullo y prejuicio.txt" "IT.xls" "Mision imposible.png"
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas/comedia
+$ cd ../Romanticas
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas/romanticas
+$ touch Pocahontas.jpg Annabelle.js "Los vengadores.js" "La mascara.js"
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas/romanticas
+$ cd ../
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas
+$ ls -R
+.:
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+./accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+./comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./infantiles:
+'El juego del miedo.xls'  'Rapido y furioso.pdf'   intensamente.txt   titanic.jpg
+
+./romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'
+
+pc@DESKTOP-UPN7M3B MINGW64 ~/Desktop/dh/peliculas
+
+
+PREGUNTA 9
+1)¿Se pueden crear las carpetas del punto 2 en un solo comando? En caso que la
+respuesta sea positiva escribir el comando
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+2)¿Se pueden crear los archivos del punto 3 en un solo comando? En caso que la
+respuesta sea positiva escribir el comando
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Infantiles
+$ touch Intensamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+
+3)Estando ubicados en la carpeta DH crear una carpeta llamada Prueba dentro de
+la carpeta Romanticas en un solo comando y escribirlo aquí.
+
+mkdir ./PELICULAS/Romanticas/Prueba
+
+4)Estando ubicados en la carpeta Romanticas crear una carpeta llamada Prueba2
+dentro de la carpeta Accion
+
+mkdir ../Accion/Prueba 2
+
+2) Mover los archivos que no correspondan a la carpeta con la categoría de
+película correspondiente.
+
+mv "La mascara.js" ../Comedia
+
+mv Pocahontas.jpg ../Infantiles
+
+mv "Los vengadores.js" ../Accion
+
+cd ../Accion
+mv "Diario de una pasion.js" ../Romanticas
+mv "El hexorcista.xls" ../Terror
+mv Cars.jpg ../Infantiles
+
+
+cd ../Comedia
+mv IT.xls ../Terror
+mv Madagaskar.js ../Infantiles
+mv "Orgullo y prejuicio.txt" ../Romanticas 
+mv "Mision imposible.png" ../Accion
+
+cd ../Infantiles
+mv "El juego del miedo.xls" ../Terror
+mv "Rapido y furioso.pdf" ../Accion
+mv Titanic.jpg ../Romanticas 
+ 
+cd ../Terror
+mv "La dama y el bagavundo.png" ../Infantiles
+mv "Yo antes de ti.xls" ../Romanticas
+mv "Que paso ayer.pdf" ../Comedia
+
+3) Estando ubicados en la carpeta DH renombrar los archivos que están mal
+nombrados debido a faltas ortográficas.
+
+mv PELICULAS/Infantiles/Intenzamente.txt PELICULAS/Infantiles/Intensamente.txt
+mv PELICULAS/Infantiles/"La dama y el bagavundo.png" PELICULAS/Infantiles/"La dama y el vagabundo.png"
+mv PELICULAS/Terror/"El hexorcista.xls" PELICULAS/Terror/"El exorcista.xls"
+
+4) Estando ubicados en la carpeta DH remover (eliminar) los archivos que no sean
+peliculas y corresponden a canciones en un solo comando c/u.
+
+rm PELICULAS/Accion/"Smooth criminal.txt" (error rm: cannot remove 'PELICULAS/Accion/Smooth criminal.txt': Permission denied)
+                                                 rm: cannot remove '../camadax.txt': Permission denied
+
+
+rm PELICULAS/Terror/"We will rock you.js"
+
+5) Ubicados en la carpeta DH crear el archivo noBorrar.js en la carpeta prueba2.
+En un solo comando.
+
+touch PELICULAS/Accion/Prueba2/noBorrar.js
+
+6) Ubicados en la carpeta peliculas mover el archivo noBorrar.js de la carpeta
+prueba2 a la carpeta prueba. En un solo comando.
+
+mv Accion/Prueba2/noBorrar.js Romanticas/Prueba
+
+7) Ubicados en la carpeta DH crear un archivo llamado camadax.txt
+
+touch camadax.txt
+
+8) Ubicados en la carpeta peliculas, mover el archivo IT a la carpeta infantiles. En
+un solo comando.
+
+mv Terror/IT.xls Infantiles
+
+9) Ubicados en la carpeta peliculas eliminar el archivo camadax.txt
+
+rm ../camadax.txt
+
+10) Ubicados en la carpeta peliculas eliminar la carpeta prueba. En un solo
+comando.
+
+rm -r Romanticas/Prueba
+
+
+
+
+ULTIMA COPIA VERSION FINAL
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ cd PELICULAS
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ cd infantiles
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/infantiles
+$ touch Intenzamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/infantiles
+$ cd ../Accion
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Accion
+$ touch "Smooth criminal.txt" "Diario de una pasion.js" "El hexorcista.xls" Cars.jpg
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Accion
+$ cd ../Terror
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Terror
+$ touch "La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" "We will rock you.js"touch "La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" "We will rock you.js"
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Terror
+$ cd ../Comedia
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Comedia
+$ touch "Madagaskar.js" "Orgullo y prejuicio.txt" "IT.xls" "Mision imposible.png"
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Comedia
+$ cd ../Romanticas
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ touch Pocahontas.jpg Annabelle.js "Los vengadores.js" "La mascara.js"
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ cd ../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y furioso.pdf'   Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'We will rock you.jstouch'  'Yo antes de ti.xls'
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y furioso.pdf'   Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'
+
+
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ cd ../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ mkdir ./PELICULAS/Romanticas/Prueba
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ cd ./PELICULAS/Romanticas
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ mkdir ../Accion/Prueba2
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ cd ../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ cd ../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ cd PELICULAS/Romanticas
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ mv Annabelle.js ./Terror
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ mv Terror Annabelle.js
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ mv Annabelle.js ../Terror
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ mv "Los vengadores.js" ../Accion
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ mv Pocahontas.jpg ../Infantiles
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ mv "La mascara.js" ../Comedia
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Romanticas
+$ cd ../Accion
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Accion
+$ mv "Diario de una pasion.js" ../Romanticas
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Accion
+$ mv "El hexorcista.xls" ../Terror
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Accion
+$ mv Cars.jpg ../Infantiles
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Accion
+$ cd ../Comedia
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Comedia
+$ mv IT.xls ../Terror
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Comedia
+$ mv Madagaskar.js ../Infantiles
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Comedia
+$ mv "Orgullo y prejuicio.txt" ../Romanticas
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Comedia
+$ mv "Mision imposible.png" ../Accion
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Comedia
+$ cd ../Infantiles
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Infantiles
+$ mv "El juego del miedo.xls" ../Terror
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Infantiles
+$ mv "Rapido y furioso.pdf" ../Accion
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Infantiles
+$ mv Titanic.jpg ../Romanticas
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Infantiles
+$ cd ../Terror
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Terror
+$ mv "La dama y el bagavundo.png" ../Infantiles
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Terror
+$ mv "Yo antes de ti.xls" ../Romanticas
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Terror
+$ mv "Que paso ayer.pdf" ../Comedia
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS/Terror
+$ cd ../../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ mv PELICULAS/Infantiles/Intenzamente.txt PELICULAS/Infantiles/Intensamente.txt
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ mv PELICULAS/Infantiles/"La dama y el bagavundo.png" PELICULAS/Infantiles/"La dama y el vagabundo.png"
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ mv PELICULAS/Terror/"El hexorcista.xls" PELICULAS/Terror/"El exorcista.xls"
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ rm PELICULAS/Accion/"Smooth criminal.txt" PELICULAS/Terror/"We will rock you.js"
+rm: cannot remove 'PELICULAS/Accion/Smooth criminal.txt': Permission denied
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ rm PELICULAS/Accion/"Smooth criminal.txt"
+rm: cannot remove 'PELICULAS/Accion/Smooth criminal.txt': Permission denied
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ touch PELICULAS/Accion/Prueba2/noBorrar.js
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ cd PELICULAS
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ mv Accion/Prueba2/noBorrar.js Romanticas/Prueba
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ cd ./
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ cd ../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ touch camadax.txt
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ cd PELICULAS
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ mv Terror/IT.xls Infantiles
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ rm ../camada.txt
+rm: cannot remove '../camada.txt': No such file or directory
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ rm ../camadax.txt
+rm: cannot remove '../camadax.txt': Permission denied
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ rm ../camadax.txt
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ ../
+bash: ../: Is a directory
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ cd ../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ rm PELICULAS/Accion/"Smooth criminal.txt"
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ cd PELICULAS
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ rmdir Romanticas/Prueba
+rmdir: failed to remove 'Romanticas/Prueba': Directory not empty
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$ rm -r Romanticas/Prueba
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/PELICULAS
+$
+
+
+
+GIT BASH
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh (main)
+$ git add .
+warning: LF will be replaced by CRLF in repaso_clase_1y2/git_bash_y_vscode/repaso.jpg.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in repaso_clase_1y2/historia_de_la_informatica/repaso.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in repaso_clase_1y2/interfaces_de_usuario/repaso.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in repaso_clase_1y2/servidores/repaso.pdf.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in repaso_clase_1y2/software_y_hardware/repaso.doc.
+The file will have its original line endings in your working directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

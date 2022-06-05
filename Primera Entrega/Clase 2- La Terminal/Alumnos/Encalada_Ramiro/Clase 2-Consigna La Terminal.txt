@@ -1,0 +1,213 @@
+DESDE GIT
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop
+$ mkdir dh
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop
+$ cd dh
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop/dh
+$ mkdir repaso_clase_1y2
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop/dh
+$ cd
+
+pc@DESKTOP-U97HF4M MINGW64 ~
+$ cd repaso_clase_1y2
+bash: cd: repaso_clase_1y2: No such file or directory
+
+pc@DESKTOP-U97HF4M MINGW64 ~
+$ cd repaso_clase_1y2
+bash: cd: repaso_clase_1y2: No such file or directory
+
+pc@DESKTOP-U97HF4M MINGW64 ~
+$ cd dh
+bash: cd: dh: No such file or directory
+
+pc@DESKTOP-U97HF4M MINGW64 ~
+$ cd desktop/dh/repaso_clase_1y2
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop/dh/repaso_clase_1y2
+$ mkdir historia_de_la_contabilidad servidores interfaces_de_usuario que_haremos_hoy infraestructura
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop/dh/repaso_clase_1y2
+$ touch historia_de_la_contabilidad servidores interfaces_de_usuario que_haremos_hoy infraestructura
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop/dh/repaso_clase_1y2
+$ touch historia_de_la_contabilidad/repaso.txt
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop/dh/repaso_clase_1y2
+$ touch servidores/repaso.pdf interfaces_de_usuario/repaso.xls que_haremos_hoy/repaso.doc infraestructura/repaso.jpg
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop/dh/repaso_clase_1y2
+$ ls-R
+bash: ls-R: command not found
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop/dh/repaso_clase_1y2
+$ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+repaso.jpg
+
+./interfaces_de_usuario:
+repaso.xls
+
+./que_haremos_hoy:
+repaso.doc
+
+./servidores:
+repaso.pdf
+
+pc@DESKTOP-U97HF4M MINGW64 ~/desktop/dh/repaso_clase_1y2
+$
+
+
+
+
+
+
+
+
+DESDE VISUAL
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh
+$ cd repaso_clase_1y2
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ mv historia_de_la_contabilidad/historia_de_la_informatica que_haremos_hoy/software_y_hardware infraestructura/git_bash_y_vscode
+mv: target 'infraestructura/git_bash_y_vscode' is not a directory
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ historia_de_la_contabilidad/historia_de_la_informatica
+bash: historia_de_la_contabilidad/historia_de_la_informatica: No such file or directory
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ mv historia_de_la_contabilidad/historia_de_la_informatica
+mv: missing destination file operand after 'historia_de_la_contabilidad/historia_de_la_informatica'
+Try 'mv --help' for more information.
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ mv ./historia_de_la_contabilidad/historia_de_la_informatica
+mv: missing destination file operand after './historia_de_la_contabilidad/historia_de_la_informatica'
+Try 'mv --help' for more information.
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ mv --help
+Usage: mv [OPTION]... [-T] SOURCE DEST
+  or:  mv [OPTION]... SOURCE... DIRECTORY
+  or:  mv [OPTION]... -t DIRECTORY SOURCE...
+Rename SOURCE to DEST, or move SOURCE(s) to DIRECTORY.
+
+Mandatory arguments to long options are mandatory for short options too.
+      --backup[=CONTROL]       make a backup of each existing destination file
+  -b                           like --backup but does not accept an argument
+  -f, --force                  do not prompt before overwriting
+  -i, --interactive            prompt before overwrite
+  -n, --no-clobber             do not overwrite an existing file
+If you specify more than one of -i, -f, -n, only the final one takes effect.
+      --strip-trailing-slashes  remove any trailing slashes from each SOURCE
+                                 argument
+  -S, --suffix=SUFFIX          override the usual backup suffix
+  -t, --target-directory=DIRECTORY  move all SOURCE arguments into DIRECTORY
+  -T, --no-target-directory    treat DEST as a normal file
+  -u, --update                 move only when the SOURCE file is newer
+                                 than the destination file or when the
+                                 destination file is missing
+  -v, --verbose                explain what is being done
+  -Z, --context                set SELinux security context of destination
+                                 file to default type
+      --help     display this help and exit
+      --version  output version information and exit
+
+The backup suffix is '~', unless set with --suffix or SIMPLE_BACKUP_SUFFIX.
+The version control method may be selected via the --backup option or through
+the VERSION_CONTROL environment variable.  Here are the values:
+
+  none, off       never make backups (even if --backup is given)
+  numbered, t     make numbered backups
+  existing, nil   numbered if numbered backups exist, simple otherwise
+  simple, never   always make simple backups
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Full documentation <https://www.gnu.org/software/coreutils/mv>
+or available locally via: info '(coreutils) mv invocation'
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ que_haremos_hoy software_y_hardware infraestructura git_bash_y_vscode
+bash: que_haremos_hoy: command not found
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ mv que_haremos_hoy software_y_hardware infraestructura git_bash_y_vscode
+mv: target 'git_bash_y_vscode' is not a directory
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ mv que_haremos_hoy software_y_hardware mv infraestructura git_bash_y_vscode
+mv: target 'git_bash_y_vscode' is not a directory
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ mv que_haremos_hoy software_y_hardware
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ mv infraestructura git_bash_y_vscode
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ cd historia_de_la_informatica
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/historia_de_la_informatica
+$ ls
+repaso.txt
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/historia_de_la_informatica
+$ nano repaso.txt
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/historia_de_la_informatica
+$ ../
+bash: ../: Is a directory
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/historia_de_la_informatica
+$ cd ../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ cd git_bash_y_vscode/
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/git_bash_y_vscode
+$ nano repaso.jpg
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/git_bash_y_vscode
+$ cd ../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ cd interfaces_de_usuario/
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/interfaces_de_usuario
+$ nano repaso.xls
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/interfaces_de_usuario
+$ cd ../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ cd servidores/
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/servidores
+$ nano repaso.pdf
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/servidores
+$ cd ../
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2
+$ cd software_y_hardware/
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/software_y_hardware
+$ nano repaso.doc
+
+pc@DESKTOP-U97HF4M MINGW64 ~/Desktop/dh/repaso_clase_1y2/software_y_hardware
+$
+
