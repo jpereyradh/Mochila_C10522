@@ -1,0 +1,2 @@
+Gitbash es una aplicacion de terminal que se utiliza como interfaz mediante  un sistema operativo comandos de linea (CLI)
+VSCode es un ide, un entorno de desarrollo integrado, desarrollado por microsoft. Aqui podamos desarrollar nuestras paginas web o aplicaciones en distintos lenguajes.

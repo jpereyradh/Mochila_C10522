@@ -1,0 +1,7 @@
+Existen 3 tipos de interfaces de usuario, las cli, las gui y las nativas.
+
+Cli hace referencia a "command line interface", es decir, que es una interfaz mediante la cual nos podemos comunicar con la computadora escribiendo comandos en lineas de codigo. Suelen ser mas rapidas que su contraparte, al requerirse menos tiempo para realizar una accion. Los comandos son estables a lo largo del tiempo, suelen utilizarse siempre los mismos (pueden tener pequeñas variaciones). 
+
+Por su parte las gui hacen referencia a "Graphical user interface", que es aquella interfaz que usa el usuario comun de una computadora, utilizando el mouse para moverse y hacer click en diferentes botones/carpetas, para comunicarse con la pc y realizar operaciones.
+
+Las nativas pueden ser táctiles, representando gráficamente un "panel de control" en una pantalla sensible al tacto que permite interactuar con el dedo de forma similar a si se accionara un control físico; pueden funcionar mediante reconocimiento del habla, como, por ejemplo, Siri; o mediante movimientos corporales, como es el caso de Kinect.
