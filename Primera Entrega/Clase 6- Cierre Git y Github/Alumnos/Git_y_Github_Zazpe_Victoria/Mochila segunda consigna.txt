@@ -1,0 +1,17 @@
+$ git	init						Crear repositorio local
+$ git	config user.name "NombreUsuario"		Agrega nuestra identidad
+$ git	config user.mail "mail@gmail.com"		Agrega nuestro mail
+$ git	remote add origin "URL_del_repositorio_Remoto"	Conectar el repositorio local con el remoto
+$ git	remote -v					Verificar que estemos correctamente conectados al repositorio remoto
+$ git	add .						Agrega todos los archivos al repositorio local
+$ git	add "NombreArchivo"				Agrega el archivo "NombreArchivo! al repositorio local
+$ git	status						Seguimiento del estado de los archivos
+$ git	commit -m "mensaje"				Comitea los cambios hechos
+$ git	push origin main				Envía los cambios al repositorio remoto
+$ git	branch						Enumera todas las ramas de tu repositorio
+$ git	branch "Rama"					Crea una rama nueva llamada "Rama"
+$ git	branch -d "Rama"				Elimina la rama llamada "Rama" - avisa si tiene cambios sin fusionar
+$ git	branch -D "Rama"				Elimina la rama llamada "Rama" - fuerza la eliminación, incluso si tiene cambios sin fusionar
+$ git	checkout "Rama"					Moverse a la branch "Rama"
+$ git	clone						Clonar un repositorio existente
+$ git	pull origin "main"				Trae los cambios hechos en el repositorio remoto
