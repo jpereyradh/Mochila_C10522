@@ -1,0 +1,6 @@
+Linea de texto generada desde el comando 'nanao' para el archivo de interfaces_de_usuario.
+
+Son los medios con los cuales una persona puede controlar un software o hardware específico. Lo ideal es que las interfaces sean intuitivas (smartphones) 
+y faciles de usar para ejecutar ordenes al software través de la patalla o teclado, basicamente.
+
+

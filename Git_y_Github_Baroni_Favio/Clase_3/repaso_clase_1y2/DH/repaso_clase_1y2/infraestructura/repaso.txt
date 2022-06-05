@@ -1,0 +1,7 @@
+Nueva linea de texto genarada desde 'nano' para el archivo de infraestrctura.
+>>control + o >> para confirmar escritura >>Enter>>
+>>control + x >> para salir
+
+Llamamos infrestructura a todo lo que compone la gran red de dredes que conforman la internet.  
+Cuando se trata de computadoras, se utiliza más a menudo para referirse a hardware y todos los 
+componentes que forman la red de comunicacion interna.

@@ -1,0 +1,4 @@
+Corta lines de txto generada desde la terminal de Git con el comando 'nano'.
+
+Todo comenzó con un instrumento simple para realizar manualmente cálculos y luego, con el aporte de varias personas,
+surgieron grandes avances tecnológicos, lo que dio origen luego a las computadoras. 

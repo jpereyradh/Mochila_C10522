@@ -1,0 +1,4 @@
+Esta es una corta linea de texto generada desde el comando 'nano'.
+Respecto al hardware y software, la princincipales diferencias son las mas evidentes. 
+
+Mientras que hardware implica toda la parte física de la estructura de una computadora, el software es todo lo que no podemos ver basicamente.  

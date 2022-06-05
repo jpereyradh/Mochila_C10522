@@ -1,0 +1,4 @@
+Esta es un corta linea de texto generada desde el editor de Git con el comando 'nano'. 
+
+Los servidores son enormes bases de datos interconectados entre si. Forman entre ellos y las computadoras a los cuales accedemos 
+a través de los navegadores en forma remota, la enorme red que conocemos como 'internet'.  
