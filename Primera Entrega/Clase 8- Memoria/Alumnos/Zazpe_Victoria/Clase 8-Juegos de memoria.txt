@@ -1,0 +1,40 @@
+Microdesafíos - Mesa VII-VIII-IX   							
+Nuestro grupo de amigos adquirió una PSP con un disco de 6GB y queremos instalarle la mayor cantidad de juegos posibles							
+							
+							
+Juegos					Peso 		Peso GB					
+Plants vs. Zombies			2,00		0,002					
+Need For Speed Carbon			121,00		0,121					
+Resident Evil 3: Nemesis		363,00		0,363					
+Driver					491,40		0,491					
+Coded Arms				49,80		0,050					
+Metal Slug Anthology			663,00		0,663					
+Burnout Dominator			682,00		0,682					
+MotorStorm Artic Edge			752,00		0,752					
+Street Fighter 3 Alpha Max		78,20		0,078					
+Crash Tag Team Racing			834,00		0,834					
+PES 2013				975,00		0,975					
+-----------------------------------------------------------------------------------------------------------------							
+							5,011	Peso de los juegos que podemos instalar				
+-----------------------------------------------------------------------------------------------------------------							
+God Of War: Chains Of Olympus				1,200					
+Grand Theft Auto: Vice City Stories			1,200					
+FIFA 12							1,210					
+Midnight Club 3: DUB Edition				1,500					
+-----------------------------------------------------------------------------------------------------------------							
+							10,121	Peso total de los juegos				
+							
+Los juegos elegidos: Ocupan en total 5,011 GB							
+-----------------------------------------------------------------------------------------------------------------							
+Plants vs. Zombies							
+Need For Speed Carbon							
+Resident Evil 3: Nemesis							
+Driver							
+Coded Arms							
+Metal Slug Anthology							
+Burnout Dominator							
+MotorStorm Artic Edge							
+Street Fighter 3 Alpha Max							
+Crash Tag Team Racing							
+PES 2013							
+							
