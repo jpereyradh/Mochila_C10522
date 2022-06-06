@@ -1,0 +1,6 @@
+1-Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código
+
+2-Microsoft compro github por 7,500 millones de dolares ,la primera de las razones es la propuesta de un software  y la integración con otras plataformas y servicios.
+La segunda y mas importante es la competencia que tiene con Amazon, ahora es microsoft quien le brinda las herramientas y servicios
+
+3- Podemos utilizar GitHub Desktop para crear y administrar un repositorio de Git sin utilizar la terminal.
