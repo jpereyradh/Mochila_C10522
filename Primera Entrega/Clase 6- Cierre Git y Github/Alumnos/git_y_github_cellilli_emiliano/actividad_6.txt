@@ -1,0 +1,7 @@
+a)¿Quien invento el sistema de control de version git y por que?
+b)¿A quien pertenece actualmente github y por que?
+c)¿Hay otra forma que no sea la terminal para trabajar?
+Rtas:
+a-  Git fue creado por Linus torvalds porque en 2005 la comunidad del kernel de linux se enfrento a que ya no podian utilizar el sistema de control de revision bitkeeper y ninguna otra gestion de control de codigo fuente satisfacia sus necesidades de un sistema distribuido. En ese entonces, linus torvalds se dedico a crear una herramienta para satisfacer las necesidades de linux. 
+b- A partir del 2018 github pertenece a la compañia Microsoft por 7500 millones de dolares. Lo hizo debido a que github es el mayor repositorio de codigo del mundo, es el punto de encuentro para millones de desarrolladores, lo cual es una clave en esta compra, microsoft se hizo con el control de la comunidad de desarrollo mas nutrida del planeta. 
+c- Se puede crear un repositorio de manera local desde git y tambien se puede crear un repositorio remoto desde la web de github. 

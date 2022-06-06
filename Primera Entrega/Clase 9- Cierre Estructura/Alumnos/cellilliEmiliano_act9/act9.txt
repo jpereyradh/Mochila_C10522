@@ -1,0 +1,65 @@
+Gama baja: intel
+Procesador: Intel i3 7100
+Motherboard: Mother Asrock Intel H310cm-hdv 1151 Hdmi Dvi Usb 3.0 Ddr4 
+Memoria principal:Memoria RAM ValueRAM  4GB 1 Kingston KVR26N19S6/4
+Memoria secundaria:Toshiba MQ04ABF Series MQ04ABF100 1TB
+
+
+Gama baja
+Procesador:procesador AMD Athlon 3000G YD3000C6FHBOX de 2 núcleos y 3.5GHz
+Motherboard: Motherboard Biostar B45m2 Chipset B350
+Memoria principal:4GB 1 Corsair CMV4GX3M1A1333C9
+Memoria secundaria:Toshiba MQ04ABF Series MQ04ABF100 1TB
+
+Gama Baja general
+ 			
+Procesador:	procesador Intel Core i3-10100F BX8070110100F de 4 núcleos y 4.3GHz
+Motherboard:Mother Asrock Intel H310cm-hdv 1151 Hdmi Dvi Usb 3.0 Ddr4 
+Memoria principal: 8GB 1 Crucial CT8G4DFS8266
+Memoria secundaria: seagate Expansion STKM1000400 1TB
+
+Gama media:
+Intel:
+Procesador: intel core i5 7400.
+Motherboard: Gigabyte Z590 Ud Ac Lga1200 11va Gen Wifi Ddr4
+Memoria principal: 8GB DDR4 2400Mhz
+Memoria secundaria: 1TB 7200RPM SATA3 SEAGATE
+Placa de video: GeFOrce gt 1030 2gd4 Lp oc
+
+Amd:
+Procesador: amd ryzen 5 4000 series.
+Motherboard: A320M Asrock
+Memoria principal: Mushkin silverline ddr4 16GB 3200MHZ 1.2V
+Memoria secundaria:SSD netac n535n M.2 2280 SATAIII 256 GB
+Placa de video: Afox Radeon RX 580 8GB 2048SP AFRX580-8192D5H7-V2
+
+General:
+
+Procesador: Amd Ryzen 7 1700g
+Motherboard: B450-Plus Asus tuf gaming am4
+Memoria principal:DDR4 16GB 3200MHZ CRUCIAL
+Memoria secundaria: hhd 1tb wd blue 7200 sata3 y 480G KINGSTON A400
+Placa de video: msi GeForce Gtx 1050 ti 4GB
+
+Alta gama:
+Intel
+Procesador: i7-10700
+Motherboard: Mother Aorus Z390
+Memoria principal:Memoria Corsair DDR4 16Gb (2x8gb) 3200Mhz y Memoria Corsair DDR4 16Gb (2x8gb) 3200Mhz
+memoria secundaria:Hd SSD 480Gb Corsair Mp510 Nvme x2
+Placa de video: Placa de Video Asus GeForce Rtx 2080ti 11Gb GDDR6 Rog Strix OC
+ 
+amd
+Procesador: Amd ryzen 7 3800xt
+Motherboard:MOTHER GIGABYTE (1151) X570 AORUS
+Memoria principal:32GB DDR4 3000mhz / 2 modulos de 16gb
+memoria secundaria:Unidad m.2 SSD 500gb
+Placa de video:Nvidia RTX 3090
+ 
+ General
+Procesador:AMD Ryzen 9 5950X 16-Core 3.4 GHz
+Motherboard:MOTHER GIGABYTE (1151) X570 AORUS
+Memoria principal:32GB DDR4 3000mhz / 2 modulos de 16gb
+memoria secundaria:Unidad m.2 SSD 500gb y Disco de 2Tb 7200RPM
+Placa de video:Nvidia RTX 3090
+ 
