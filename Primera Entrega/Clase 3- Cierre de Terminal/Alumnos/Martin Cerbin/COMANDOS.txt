@@ -1,0 +1,144 @@
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ mkdir peliculas
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ cd peliculas/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas
+$ mkdir infantiles accion terror comedia romanticas
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas
+$ cd infantiles/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/infantiles
+$ touch intensamente.txt "el juego del miedo.xls" "rapido y furioso.pdf" titanic.jpg
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/infantiles
+$ cd ../accion
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/accion
+$ touch "smooth criminal.txt" "diario de una pasion.js" "el hexorcista.xls" "que paso ayer.pdf" "we will rock you.js"
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/accion
+$ cd ../comedia/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/comedia
+$ touch madagascar.js "orgullo y prejuicio.txt" "it.xls" "mision imposible.png"
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/comedia
+$ cd ../romanticas/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/romanticas
+$ touch pocahontas.jpg annabelle.js "los vengadores.js" "la mascara.js"
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/romanticas
+$ cd ../terror/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/terror
+$ touch "la dama y el bagavundo.png" "yo antes de ti.xls" "que paso ayer.pdf" "we will rock you.js" 
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/terror
+$ cd ../
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas
+$ ls -R
+.:
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+./accion:
+ cars.jpg  'diario de una pasion.js'  'el hexorcista.xls'  'smooth criminal.txt'
+
+./comedia:
+ it.xls   madagascar.js  'mision imposible.png'  'orgullo y prejuicio.txt'
+
+./infantiles:
+'el juego del miedo.xls'   intensamente.txt  'rapido y furioso.pdf'   titanic.jpg
+
+./romanticas:
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg
+
+./terror:
+'la dama y el bagavundo.png'  'que paso ayer.pdf'  'we will rock you.js'  'yo antes de ti.xls'
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas
+$ cd ../
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ mkdir ./peliculas/romanticas/prueba
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ cd ./peliculas/romanticas/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/romanticas
+$ cd ../accion/prueba2
+bash: cd: ../accion/prueba2: No such file or directory
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/romanticas
+$ mkdir ../accion/prueba2
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas/romanticas
+$ cd ../../
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ cd mv ./peliculas/terror/"el hexorcista.xls" "el exorcista.xls"
+bash: cd: too many arguments
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ mv ./peliculas/terror/"el hexorcista.xls" "el exorcista.xls"
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ mv "el exorcista.xls" ./peliculas/terror/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ mv ./peliculas/infantiles/"la dama y el vagavundo.png" ./peliculas/infantiles/"la dama y el vagabundo.png"
+mv: cannot stat './peliculas/infantiles/la dama y el vagavundo.png': No such file or directory
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$  mv ./peliculas/infantiles/"la dama y el vagavundo.png" ./"la dama y el vagabundo.png"
+mv: cannot stat './peliculas/infantiles/la dama y el vagavundo.png': No such file or directory
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ mv "la dama y el vagabundo.png" ./peliculas/infantiles/"la dama y el vagavundo.png"
+mv: cannot stat 'la dama y el vagabundo.png': No such file or directory
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ mv ./peliculas/infantiles/"la dama y el vagavundo.png" "la dama y el vagabundo.png" ./peliculas/infantiles/
+mv: cannot stat './peliculas/infantiles/la dama y el vagavundo.png': No such file or directory
+mv: cannot stat 'la dama y el vagabundo.png': No such file or directory
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ mv ./peliculas/infantiles/"la dama y el bagavundo.png" "la dama y el vagabundo.png" ./peliculas/infantiles/
+mv: cannot stat 'la dama y el vagabundo.png': No such file or directory
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ mv ./peliculas/infantiles/"la dama y el bagavundo.png" ./peliculas/infantiles/"la dama y el vagabundo.png"
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ rm ./peliculas/accion/"smooth criminal.txt" ./peliculas/terror/"we will rock you.js"
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ touch peliculas/accion/prueba2/noBorrar.js
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ cd peliculas/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas
+$ mv ./accion/prueba2/noBorrar.js ./romanticas/prueba/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas
+$ cd ../
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ touch camada.txt
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH
+$ cd ./peliculas/
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas
+$ mv ./terror/it.xls ./infantiles
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas
+$ rm ../camada.txt
+
+marti@MSI MINGW64 ~/Documents/CERTIFIED TECH DEVELOPER/INFORMATICA/DH/peliculas
+$ rm -r ./romanticas/prueba
