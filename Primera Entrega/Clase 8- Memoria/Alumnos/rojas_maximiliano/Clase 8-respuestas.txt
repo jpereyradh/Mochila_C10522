@@ -1,0 +1,17 @@
+Enunciado:
+Nuestro grupo de amigos adquirió una PSP con un disco de 6GB y queremos instalarle la
+mayor cantidad de juegos posibles de una lista de 15 juegos que armamos entre todos.
+
+La mayoria de juegos que se le pueden instalar son:
+
+Plantas vs Zombies
+Coded Arms 
+Street Fighter 3 Alpha Max
+Need For Speed Carbon 
+Resident Evil 3: Nemesis
+Driver
+Metal Slug Anthology
+Burnout Dominator
+MotorStorm Artic Edge 
+Crash Tag Team Racing 
+PES 2013 

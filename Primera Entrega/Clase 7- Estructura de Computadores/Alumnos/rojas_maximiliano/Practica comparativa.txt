@@ -1,0 +1,7 @@
+﻿Prácticas comparativas
+
+
+Decidimos elegir el procesador  Amd Ryzen 5 3600 
+para el hermano mayor  ya que es un procesador más especializado en gráficos  y videos lo que le permitira correr programas de edicion de video sin dificultades.
+Para Marcelo,  que solo necesita ejecutar suite de Office 2019 elegimos el precesador  Amd a8 9600 que es un procesador mas basico y sin grandes alcances.
+Para Matilda elegimos el procesador Intel i3 3230
