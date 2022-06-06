@@ -1,0 +1,45 @@
+José@DESKTOP-RHOT9GK MINGW64 ~/desktop (main)
+$ mkdir dh
+
+José@DESKTOP-RHOT9GK MINGW64 ~/desktop (main)
+$ cd dh
+
+José@DESKTOP-RHOT9GK MINGW64 ~/desktop/dh (main)
+$ mkdir repaso_clase_1y2
+
+José@DESKTOP-RHOT9GK MINGW64 ~/desktop/dh (main)
+$ cd repaso_clase_1y2
+
+José@DESKTOP-RHOT9GK MINGW64 ~/desktop/dh/repaso_clase_1y2 (main)
+$ mkdir historia_de_la_contabilidad servidores interfaces_de_usuario que_haremos_hoy infraestructura
+
+José@DESKTOP-RHOT9GK MINGW64 ~/desktop/dh/repaso_clase_1y2 (main)
+$ touch historia_de_la_contabilidad/repaso.txt servidores/repaso.txt interfaces_de_usuario/repaso.txt que_haremos_hoy/repaso.txt infraestructura/repaso.txt
+
+José@DESKTOP-RHOT9GK MINGW64 ~/desktop/dh/repaso_clase_1y2 (main)
+$ ls
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+José@DESKTOP-RHOT9GK MINGW64 ~/desktop/dh/repaso_clase_1y2 (main)
+$ ls -R
+.:
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+repaso.txt
+
+./interfaces_de_usuario:
+repaso.txt
+
+./que_haremos_hoy:
+repaso.txt
+
+./servidores:
+repaso.txt
+
+José@DESKTOP-RHOT9GK MINGW64 ~/desktop/dh/repaso_clase_1y2 (main)
