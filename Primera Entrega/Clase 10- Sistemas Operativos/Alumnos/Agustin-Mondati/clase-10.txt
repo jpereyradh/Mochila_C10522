@@ -1,0 +1,24 @@
+descripcion
+Linux. Linux es un sistema operativo de software libre (no es propiedad de ninguna persona o empresa), por ende no es necesario comprar una licencia para instalarlo y utilizarlo en un equipo informático.
+
+si es open source
+Linux es un sistema operativo open source libre que se lanzó bajo la Licencia Pública General (GPL) de GNU y se convirtió en el proyecto de software open source más importante del mundo.
+
+requisitos menimos
+instalar sus SO. Lo mínimo que requiere el software libre es:
+Procesador 386X en adelante.
+Mínimo 4MB de RAM, aunque es recomendable disponer de 8 Mb.
+Controlador de Disco duro con 20 Mb de espacio libre, aunque es recomendable 100 Mb.
+
+ventana de comando
+Ctrl + Alt + t al mismo tiempo.
+
+¿Puedo instalar aplicaciones?¿Por que?
+ si, porque me lo permite y son compatibles.
+
+Hay juegos instalados? 
+si dependiendo de la compatibilidad
+
+file explorer:
+
+https://www.bing.com/images/search?view=detailV2&ccid=6PR7xeLS&id=D4269CFEE56DB006DDD98E45DF03180AB79A2675&thid=OIP.6PR7xeLS1HAdmendjXUsMQHaEy&mediaurl=https%3a%2f%2f1.bp.blogspot.com%2f-j0cIf8Gv-1o%2fW3VjMCIKU_I%2fAAAAAAAAC20%2fEwvdd2_B6QIM8pEGVdbjulzCUrAX3Pg6ACLcBGAs%2fs1600%2fcaptura0.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e8f47bc5e2d2d4701d99e9dd8d752c31%3frik%3ddSaatwoYA99Fjg%26pid%3dImgRaw%26r%3d0&exph=576&expw=892&q=linux+os++explorador+de+archivo&simid=608021533845363101&FORM=IRPRST&ck=D60586BC312A50FCC8CC6C8B69D6F62D&selectedIndex=4&ajaxhist=0&ajaxserp=0
