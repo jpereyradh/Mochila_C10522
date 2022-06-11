@@ -1,0 +1,7 @@
+12:
+a: Root es la cuenta de superusuario en Unix y Linux. Es una cuenta de usuario para fines administrativos y, por lo general, tiene los derechos de acceso más altos en el sistema. Por lo general, la cuenta de usuario root se llama root. Sin embargo, en Unix y Linux, cualquier cuenta con ID de usuario 0 es una cuenta raíz, independientemente del nombre.
+b:De forma predeterminada, en Ubuntu, no hay contraseña para la cuenta raíz. Para ejecutar un comando como root, debe ejecutar sudo, que le solicita su propia contraseña. La instalación de Ubuntu crea una cuenta con privilegios de sudo y le pide que ingrese una contraseña para esa cuenta.
+c:resumen, los procesos ejecutan programas en su host Linux que realizan operaciones como escribir en un disco, escribir en un archivo o ejecutar un servidor web, por ejemplo. El proceso tiene un propietario y se identifica mediante un ID de proceso (también llamado PID)
+d:Para ver los procesos en sistemas Linux, contamos con el comando ' ps ', que listará (de múltiples formas según las opciones que le pasemos) todos los procesos que se encuentran corriendo en nuestro equipo
+e: INVESTIGAR y ESTABLECER:Primero debe establecer la contraseña para la raíz mediante “sudo passwd root”, ingrese su contraseña una vez y luego la nueva contraseña de root dos veces. Luego escriba “su -” e introduzca la contraseña que acaba de establecer.
+f:
