@@ -1,0 +1,66 @@
+Gama baja:
+
+1. Intel
+procesador:Core i3 7100
+placa madre:Biostar Micro ATX H410MH
+memoria principal:Memoria Ram Para Pc De 4gb ddr4
+memoria secundaria:Disco duro interno Toshiba MQ01ABF Series MQ01ABF050 500GB plata y negro
+
+2. AMD
+procesador:Ryzen 3 2200g
+placa madre:Biostar A32M2
+memoria principal:Memoria Ram Para Pc De 4gb ddr4
+memoria secundaria:Disco duro interno Toshiba MQ01ABF Series MQ01ABF050 500GB plata y negro
+
+3. A criterio
+procesador:Ryzen 3 2200g
+placa madre:Biostar A32M2
+memoria principal:Memoria Ram Para Pc De 4gb ddr4
+memoria secundaria:Disco duro interno Toshiba MQ01ABF Series MQ01ABF050 500GB plata y negro
+
+
+Gama media:
+
+1. Intel
+procesador:Intel Core i5-10600K
+placa madre:ASUS Prime Z490-P
+memoria principal:Crucial 16 GB, DDR4-2400, CL 17
+memoria secundaria:HDD 1TB SEAGATE BARRACUDA / WESTERN DIGITAL BLUE 3.5" 7200RPM-SSD 2.5" 240GB A400 Kingston
+gpu:GeForce GT 1030 2GD4 LP OC
+
+2. Ryzen
+procesador:AMD Ryzen 7 3700X
+placa madre:A320M Asrock
+memoria principal:Crucial 16 GB, DDR4-2400, CL 17
+memoria secundaria:HDD 1TB SEAGATE BARRACUDA / WESTERN DIGITAL BLUE 3.5" 7200RPM-SSD 2.5" 240GB A400 Kingston
+gpu:EVGA GeForce GTX 1080 Ti FTW3
+
+3. A criterio
+procesador:Intel Core i5-10600K
+placa madre:ASUS Prime Z490-P
+memoria principal:Crucial 16 GB, DDR4-2400, CL 17
+memoria secundaria:HDD 1TB SEAGATE BARRACUDA / WESTERN DIGITAL BLUE 3.5" 7200RPM-SSD 2.5" 240GB A400 Kingston
+gpu:MSI Geforce GTX 1660 SUPER VENTUS XS
+
+Gama alta:
+
+1.Intel
+procesador:Core i7-10700
+placa madre:ASUS ROG Strix Z490-E Gaming
+memoria principal:G.Skill Trident Z RGB 2x8GB
+memoria secundaria:HDD Barracuda, 4 TB-SSD CRUCIAL ESTADO SOLIDO P2 1TB PCIe M.2 2280SS SSD CT1000P2SSD8
+gpu:NVIDIA RTX 3090 Ti
+
+2.AMD
+procesador:AMD Ryzen 7 3800xt
+placa madre:MSI MEG X570 Godlike
+memoria principal:G.Skill Trident Z RGB 2x8GB
+memoria secundaria:HDD Barracuda, 4 TB-SSD CRUCIAL ESTADO SOLIDO P2 1TB PCIe M.2 2280SS SSD CT1000P2SSD8
+gpu:NVIDIA RTX 3090 Ti
+
+3. A criterio
+procesador:Intel® Core™ i9-11900K
+placa madre: Gigabyte Z590 AORUS Elite HACHA
+memoria principal:VENGEANCE LPX 32GB (2x16GB) DRAM DDR4 a 3200 MHz C16 – Negro
+memoria secundaria:Seagate IronWolf HDD NAS 8TB-SABRENT 4TB Rocket 4 Plus NVMe 4.0 Gen4 PCIe M.2 SSD
+gpu:NVIDIA RTX 3090 Ti
