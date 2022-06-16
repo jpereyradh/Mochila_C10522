@@ -1,0 +1,35 @@
+-Clojure es un lenguaje compilado.
+-Clojure es un lenguaje de programación de propósito general.
+ Lo utilizan muchas empresas, grandes y pequeñas, incluidas 
+Amazon, Staples y Walmart. Es particularmente eficiente en el
+ procesamiento de datos y la programación concurrente, dos 
+procesos que cada vez son más relevantes en informática.
+-Algunos de los editores de texto con que se puede utilizar
+este lenguaje son: IntelliJ + Cursive, VSCode + Calva , Atom + proto-repl, 
+Emacs + CIDER (also Spacemacs + CIDER). Librerias y Framework:
+Pedestal (GitHub), Luminus (GitHub).
+-(println "suma: "(+ 5 4))
+
+-Kotlin en un lenguaje de programación de alto nivel, estáticamente tipado,
+ compilado e interpretado, al igual que lenguaje de programación Java se 
+compila Bytecode y también es interpretado por máquina virtual de Java, 
+pero es independientemente de Java.
+-Kotlin:  Kotlin se utiliza en el desarrollo de Android, desde el año
+2019 Google se ha declarado Kotlin First es  decir, los nuevos desarrollos 
+se harán para Kotlin y una vez terminados se implementarán en Java. 
+Esto hizo que el sector móvil se diese cuenta de la importancia de dicho 
+lenguaje y se centrara en él. Es por ello que actualmente más del 80% de 
+las 1000 apps más populares para Android usan Kotlin.
+-Ides para kotlin: 1. IntelliJ IDEA 2. Eclipse 3. Atom
+Spring: Posiblemente uno de los frameworks más populares en el desarrollo
+del server-side y desde la versión 5.0 es compatible con Kotlin.
+-fun main(args: Array<String>) {
+    var number = 4
+
+    number += 5   // number = number*5
+    println("number  = $number")
+}
+
+
+
+
