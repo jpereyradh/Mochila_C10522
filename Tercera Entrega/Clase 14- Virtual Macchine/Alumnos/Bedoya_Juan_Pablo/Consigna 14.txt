@@ -1,0 +1,92 @@
+Mesa #5
+
+<<<<<<<<<<< Lenguajes    PHP  &   C#  >>>>>>>>>>>>
+
+
+
+¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje? 
+
+PHP >>> Interpretado
+C# >>> Compilado
+
+
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+
+PHP >>> Se utiliza principalmente para desarrollo web - backend
+C# >>> Se utiliza para aplicaciones moviles, de escritorio, también para desarrollar videojuegos
+
+
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+
+PHP >>> Se puede utilizar cualquier editor de texto, ejemplo VScode y un framework muy utilizado es larabel
+C# >>> El IDE por excelencia de este lenguaje es Visual Studio y una librería para desarrollar en C# es Birtus
+
+
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación 
+matemática:
+
+PHP >>> 
+<?php
+  $x = 4;
+  $y = 5;
+  $z = $x + $y;
+  echo($z); /// 9
+?>
+
+
+C# >>> 
+using System;
+					
+  public class Program
+  {
+    public static void Main()
+    {
+      int x = 4;
+      int y = 5;
+      int z = x + y;
+      Console.WriteLine(z); /// 9
+    }
+  }
+
+
+
+
+
+Opcional: Crea un código que te parezca interesante o que quieras 
+compartir con tus compañeros.
+
+
+/// Serie de fibonacci
+PHP >>>
+<?php
+  function fibonacci($n){
+      $fibonacci  = [0,1];
+  
+    for($i=2;$i<=$n;$i++){
+          $fibonacci[] = $fibonacci[$i-1]+$fibonacci[$i-2];
+      }
+      echo $fibonacci[$n];
+  }
+  fibonacci(10);
+?>
+
+C# >>>
+using System;
+public class Demo {
+   public static void Main(string[] args) {
+      public static void Fibonacci(int numberElements){            
+        int[] arreglo = new int[numberElements];
+        arreglo[0] = 0;
+        arreglo[1] = 1;
+    
+        for(int i = 2; i < numberElements; i++){
+            arreglo[i] = arreglo[i - 1] + arreglo[i - 2];
+        }
+    
+        Console.WriteLine(string.Join(",",arreglo));
+    }
+    Fibonacci(10);
+   }
+}
