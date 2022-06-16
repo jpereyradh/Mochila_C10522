@@ -1,0 +1,28 @@
+NODE JS
+
+1. interpretado
+2. diseñado para crear aplicaciones escalables 
+3. visual studio, WebStorm,  IntelliJ IDEA, cloud 9, entre otro
+librerias y frameworks: express.js, meteor.js, nest.js, adonis.js
+4.
+function sum (x, y) {
+    return x + y;
+}
+
+let z = sum();
+console.log(sum(1, 2))
+
+RUBY 
+
+1. interpretado
+2. El lenguaje Ruby se utiliza principalmente en el desarrollo de aplicaciones web, pero también se puede utilizar para desarrollar otro tipo de aplicaciones de software
+3.ruby on mine, VIM, Atom 
+frameworks: ruby on rails, sinatra, hobbit
+4.def sumar(x,y)
+    x + y
+end
+
+z = sumar(3,1);
+
+puts "la suma es: #{z}"
+
