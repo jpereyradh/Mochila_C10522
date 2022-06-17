@@ -1,0 +1,10 @@
+•	¿Qué es un usuario root en Linux?
+El root es la cuenta de Linux que tiene acceso a todos los commandos y archivos de un Sistema operative de Linux o Unix. También se refiere a la cuenta root, usuario root y el superusuario.
+
+•	¿Por qué Ubuntu no me deja establecer la contraseña durante la instalación?
+Se supone que no debes añadir una contraseña para la cuenta de root. Se la mantiene deshabilitada de forma predeterminada, mientra convierte a nuestro usuario habitual en un miembro del grupo administradores. De esta forma, podremos realizar tareas particulares de administración con la cuenta que usamos para trabajar a diario, pero, cada vez que concluya una tarea administrativa, la cuenta volverá a comportarse, automáticamente, como una cuenta normal. Tenemos algo llamado el mecanismo sudo para manejar eso. En su lugar, se añaden usuarios a la cuenta admin cuenta. Todos esos usuarios pueden entonces ejecutar comandos o programas como root ejecutando sudo command para los comandos de terminal.
+ Cuando te pidan una contraseña al instalar cosas, etc., es tu propia contraseña la que debes usar. De esta manera, es posible permitir a otros hacer tareas administrativas sin tener que compartir contraseñas y claves. También es configurable para permitir que alguien ejecute un comando específico como root, pero no otros, pero normalmente no tocarás eso.
+
+•	¿Cuáles son los procesos típicos de Linux? ¿Cómo identificarlos?
+Hay dos tipos de procesos de Linux, normal y en tiempo real. Los procesos en tiempo real tienen una prioridad más alta que todos los demás procesos. Si hay un proceso en tiempo real listo para ejecutarse, siempre se ejecutará primero. Los procesos en tiempo real pueden tener dos tipos de políticas, round robin y primero en entrar, primero en salir.
+Los procesos se identifican de forma única con un número que usa el kernel denominado PID.
