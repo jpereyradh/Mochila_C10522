@@ -8,7 +8,10 @@ procesos que cada vez son más relevantes en informática.
 este lenguaje son: IntelliJ + Cursive, VSCode + Calva , Atom + proto-repl, 
 Emacs + CIDER (also Spacemacs + CIDER). Librerias y Framework:
 Pedestal (GitHub), Luminus (GitHub).
--(println "suma: "(+ 5 4))
+-(def ^:dynamic x 4)
+(def ^:dynamic y 5)
+(def ^:dynamic z (+ x y))
+(println z)
 
 -Kotlin en un lenguaje de programación de alto nivel, estáticamente tipado,
  compilado e interpretado, al igual que lenguaje de programación Java se 
