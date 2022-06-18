@@ -1,0 +1,9 @@
+1. Porque los lenguajes de programación usan como base un sistema operativo que se comunica con el hardware y una arquitectura
+determinada, haciendo que la "traducción" de ese lenguaje a lenguaje de máquina varíe según el SO.
+
+2. Virtual Box soporta máquinas virtuales de sistema, donde se genera una virtualización completa del sistema operativo.
+
+3. Un hipervisor o monitor de máquina virtual  es una capa de software para realizar una virtualización de hardware que permite
+utilizar, al mismo tiempo, diferentes sistemas operativos (sin modificar o modificados, en el caso de paravirtualización) en una misma computadora
+
+4. No se ve afectada ni la computadora "base" ni las demás máquinas virtuales, ya que la virtualización crea entornos independientes y seguros entre sí.
