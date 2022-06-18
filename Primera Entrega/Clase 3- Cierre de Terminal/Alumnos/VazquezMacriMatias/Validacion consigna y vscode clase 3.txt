@@ -1,0 +1,216 @@
+						Clase 3 Consigna 1
+
+Usuario@LAPTOP-G7104UT9 Mra Entrega/Clase 3- Cierr
+$ mkdir VazquezMacriMatia
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ mkdir DH
+
+Usuario@LAPTOP-G7104UT9 M$ cd DH/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ mkdir Películas
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ cd Películas
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ ls
+Accion/   Infantiles/  Terror/
+Comedia/  Romanticas/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ touch Infantiles/Intenzamente.txt Infantiles/"El juego del miedo.xls
+" Infantiles/"Rapido y furioso.pdf" Infantiles/Titanic.jpg 
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ ls -R
+.:
+Accion/   Infantiles/  Terror/
+Comedia/  Romanticas/
+
+./Accion:
+
+./Comedia:
+
+./Infantiles:
+'El juego del miedo.xls'
+ Intenzamente.txt
+'Rapido y furioso.pdf'
+ Titanic.jpg
+
+./Romanticas:
+
+./Terror:
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ Touch Accion/"Smooth criminal.txt" Accion/"Diario de una pasion.js" 
+Accion/"El hexorcista.xls" Accion/"Cars.jpg"
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ touch Terror/"La dama y el bagavundo.png" Terror/"Yo antes de ti.xls" Terror/"Que paso ayer.pdf" Terror/"We will rock you.js"
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ Touch Comedia/Madagaskar.js Comedia/"Orgullo y prejuicio.txt" Comedia/IT.xls Comedia/"Mision imposible.png"
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ Touch Romanticas/Pocahontas.jpg Romanticas/Annabelle.js Romanticas/"Los vengadores.js" Romanticas/"La mascara.js"
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ ls -R
+.:
+Accion/   Infantiles/  Terror/
+Comedia/  Romanticas/
+
+./Accion:
+ Cars.jpg
+'Diario de una pasion.js'
+'El hexorcista.xls'
+'Smooth criminal.txt'
+
+./Comedia:
+ IT.xls
+ Madagaskar.js
+'Mision imposible.png'
+'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'
+ Intenzamente.txt
+'Rapido y furioso.pdf'
+ Titanic.jpg
+
+./Romanticas:
+ Annabelle.js
+'La mascara.js'
+'Los vengadores.js'
+ Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'
+'Que paso ayer.pdf'
+'We will rock you.js'
+'Yo antes de ti.xls'
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- 
+Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+
+Punto 9
+
+Punto 2 en un solo comando: $ mkdir Infantiles Accion Terror Comedia Romanticas
+
+Punto 3 en un solo comando: $ touch Infantiles/Intenzamente.txt Infantiles/"El juego del miedo.xls
+" Infantiles/"Rapido y furioso.pdf" Infantiles/Titanic.jpg 
+
+Estando ubicado en dh crear una carpeta llamda prueba en la Romanticas: Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Aluntrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ mkdir Películas/Romanticas/Prueba
+
+Estando ubicado en Romanticas crear una carpeta llamada Prueba2 en Accion : Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas/Romanticas (VazquezMacri_Matias)
+$ mkdir ../Accion/Prueba2
+
+
+
+
+							VSCODE
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Accion/Cars.jpg Infantiles/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Terror/La\ dama\ y\ el\ bagavundo.png Infantiles/ 
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Comedia/Madagaskar.js Infantiles/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Romanticas/Pocahontas.jpg Infantiles/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Infantiles/Rapido\ y\ furioso.pdf Accion/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Comedia/Mision\ imposible.png Accion/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Romanticas/Los\ vengadores.js Accion/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Infantiles/El\ juego\ del\ miedo.xls Terror/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Accion/El\ hexorcista.xls Terror/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Comedia/IT.xls Terror/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Romanticas/Annabelle.js Terror/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Terror/Que\ paso\ ayer.pdf Comedia/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Romanticas/La\ mascara.js Comedia/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Infantiles/Titanic.jpg Romanticas/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Accion/Diario\ de\ una\ pasion.js Romanticas/
+
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- ntrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ cd ../
+                                                                                               ntrega/Clase 3- 
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ mv Películas/Accion/Rapido\ y\ furioso.pdf "Rápidos y furiosos.pdf"
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ mv "Rápidos y furiosos.pdf" Películas/Accion/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ mv Películas/Infantiles/Intenzamente.txt Películas/Infantiles/Intensamente.txt
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ mv Películas/Infantiles/La\ dama\ y\ el\ bagavundo.png Películas/Infantiles/"La dama y el vagabundo.png"
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ mv Películas/Infantiles/Madagaskar.js Películas/Infantiles/Madagascar.js
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ mv Películas/Terror/"El hexorcista.xls" Películas/Terror/"El exorcista.xls"
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ rm Películas/Accion/Smooth\ criminal.txt 
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ rm Películas/Terror/We\ will\ rock\ you.js 
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ touch Películas/Accion/Prueba2/noBorrar.js
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ cd Películas/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Accion/Prueba2/noBorrar.js Romanticas/Prueba/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ cd ../
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ touch camadax.txt
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH (VazquezMacri_Matias)
+$ cd Películas/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ mv Terror/IT.xls Infantiles/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ rm ../camadax.txt
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 3- Cierre de Terminal/Alumnos/VazquezMacriMatias/DH/Películas (VazquezMacri_Matias)
+$ rm -r Romanticas/Prueba/

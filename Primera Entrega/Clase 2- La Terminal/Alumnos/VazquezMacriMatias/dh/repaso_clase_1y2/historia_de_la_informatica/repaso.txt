@@ -1,0 +1,4 @@
+Como ya sabemos, una computadora es un dispositivo electrónico capaz de recibir instrucciones y ejecutarlas. Estas instrucciones son dadas por un usuario, por medio de una interfaz que presenta el sistema operativo lo cual hace más sencilla la comunicación entre el usuario y la máquina. El sistema operativo interpreta y ejecuta con los recursos que dispone, a estos recursos se les conoce como hardware y todo lo que interpreta y ejecuta los deseos del usuario es el software.
+
+
+Pero, a lo largo de la historia, esto ha ido evolucionando de manera continua, gracias a la aparición de nuevos componentes y diferentes personas que idearon una forma de maximizar la utilización de estos avances tecnológicos.

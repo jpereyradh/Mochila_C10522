@@ -1,0 +1,47 @@
+Consigna 1 validación
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 2- La Terminal/Alumnos/VazquezMacriMatias (VazquezMacri_Matias)
+$ mkdir dh
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 2- La Terminal/Alumnos/VazquezMacriMatias (VazquezMacri_Matias)
+$ cd dh
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 2- La Terminal/Alumnos/VazquezMacriMatias/dh (VazquezMacri_Matias)
+$ mkdir "repaso_clase_1y2"
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 2- La Terminal/Alumnos/VazquezMacriMatias/dh (VazquezMacri_Matias)
+$ cd "repaso_clase_1y2/"
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 2- La Terminal/Alumnos/VazquezMacriMatias/dh/repaso_clase_1y2 (VazquezMacri_Matias)
+$ mkdir "historia_de_la_contabilidad" "que_haremos_hoy" "servidores" "interfaces_de_usuario" "infraestructura"
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 2- La Terminal/Alumnos/VazquezMacriMatias/dh/repaso_clase_1y2 (VazquezMacri_Matias)
+$ ls
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 2- La Terminal/Alumnos/VazquezMacriMatias/dh/repaso_clase_1y2 (VazquezMacri_Matias)
+$ touch "historia_de_la_contabilidad"/repaso.txt "que_haremos_hoy"/repaso.docx "servidores"/repaso.xls "interfaces_de_usuario"/repaso.pdf "infraestructura"/repaso.py
+
+Usuario@LAPTOP-G7104UT9 MINGW64 ~/Desktop/intro informatica/mochila c1/Mochila_C10522/Primera Entrega/Clase 2- La Terminal/Alumnos/VazquezMacriMatias/dh/repaso_clase_1y2 (VazquezMacri_Matias)
+$ ls -R
+.:
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+repaso.py
+
+./interfaces_de_usuario:
+repaso.pdf
+
+./que_haremos_hoy:
+repaso.docx
+
+./servidores:
+repaso.xls
+
+
