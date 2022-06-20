@@ -1,0 +1,24 @@
+clase 14:
+a: Al ser Swift un lenguaje compilado, no interpretado, su compilación es uno de sus puntos fuertes, que le da la potencia en su funcionamiento.
+b: A diferencia de Python o JavaScript, Rust no es un lenguaje interpretado. Es Compilado.
+c: Rust es un lenguaje de programación compilado, de propósito general y multiparadigma que está siendo desarrollado por Mozilla. ​ Ha sido diseñado para ser "un lenguaje seguro, concurrente y práctico". ​ ​ Es un lenguaje de programación multiparadigma
+d:El lenguaje de programación Swift es el utilizado actualmente para los desarrollos digitales de apps para entornos iOS y macOS
+e: Kiro: es un editor de texto escrito en Rust que agrega características como soporte Unicode, una mejor combinación de colores y pequeñas cosas como cambiar el tamaño. Ox tomó las ideas de Kiro para mejorar, pero las implementó de manera diferente.
+f: Sublime Text, cuenta con su propio paquete para Swift. Se trata de un editor de texto para código compatible con una amplia variedad de lenguajes de programación.
+g: La misma librería donde los objetos y valores básicos que nos permiten trabajar con el lenguaje están contenidos. Dentro del contexto de una aplicación Swift, podemos elegir usar cualquier API de las que pertenecen a Cocoa, como UIKit, Core Data o cualquier otra, pero la librería Foundation siempre está presente por encima de todas estas.
+h: Con 8k estrellas en GitHub, Rocket es uno de los marcos web más maduros, listos para la producción y de pila completa. Su principal punto fuerte es que no te hace sacrificar la velocidad por un entorno productivo y viceversa como lo hacen muchos marcos. Ayuda a escribir aplicaciones web rápidas y seguras y no sacrifica la flexibilidad, la usabilidad o la seguridad del tipo.(With 8k stars on GitHub, Rocket is one of the most mature, production-ready, full-stack web frameworks. Its major strong point is that it doesn’t make you sacrifice speed for a productive environment and vice-versa like many frameworks do. It helps write fast, secure web applications and doesn’t sacrifice flexibility, usability or type safety.)
+
+Rust :
+fn main() {
+   let x = 4 ;
+   let y = 5;
+
+   let z = x + y;
+   println!("Sum: {} ",z);
+}
+
+Swift:
+var x = 4
+var y = 5
+var z = x + y
+print(z)
