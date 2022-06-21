@@ -1,0 +1,1 @@
+1.Quien invento el sistema de control de version Git y por que?Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
