@@ -1,0 +1,16 @@
+● 1 -Crear un archivo en Google Documents o Word en la computadora.
+● 2 - Investigar y contestar las siguientes preguntas. a)¿Que es un usuario root en
+Linux? b)¿Por qué ubuntu no me deja establecer la contraseña durante la
+instalación? c) ¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?.
+● 3 - Investigar y establecer una contraseña para el usuario root.
+● 4 - Subir el documento de manera individual en la mochila.
+
+
+2- a) Root es una cuenta de usuario que tiene un control absoluto de todo lo que ocurre en un sistema.
+ Es decir, que si rooteamos nuestro teléfono podremos acceder a todas sus funciones con todo lo que ello conlleva.
+
+   b) Poque se supone que no debes añadir una contraseña para la cuenta de root porque tenemos un mecanismo llamado sudo para manejar eso.
+
+   c) Un proceso en linux es una serie de instrucciones que vienen de un programa que esta en ejecución, existen diferentes elementos que incorpora un proceso como la prioridad de ejecución del proceso que le indica a 
+    Linux cuanto CPU utilizar y el tiempo máximo de ejecución del proceso. Se indentifica usando el comando "ps".
+

@@ -1,0 +1,8 @@
+                                                           Ejerciocio:
+
+ 1 -En base a los print de y comandos, redactar con sus palabras qué es lo que
+ven y realizar una comparación con su sistema operativo actual. ¿Cuáles son
+las funciones de estos comandos usados?.
+
+1 -Ubunto nos permite ver un sistema de almacenamiento mucha mas especifico, mostrandonos nuestra capacidad de almacenamiento, los archivos que tenemos intalados y
+Cada paso que haces mostrandolos en la terminal.

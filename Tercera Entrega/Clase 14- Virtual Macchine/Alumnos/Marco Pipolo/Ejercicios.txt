@@ -1,0 +1,45 @@
+                                                           GRUPO 6: "Erlang"
+
+Actividad:
+
+
+Por cada uno de los lenguajes asignados por mesa deberán realizar los siguientes
+puntos:
+● 1- ¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+● 2- ¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+● 3-¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una
+librería o framework famoso del mismo.
+● 4- Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación
+matemática:
+○ x = 4
+○ y = 5
+○ z = x + y
+2
+○ mostrar por pantalla z
+
+
+
+1- Erlang usa procesos concurrentes para estructurar la aplicación. Estos procesos no comparten memoria y se comunican de forma asincrónica
+ mediante el paso de mensajes. Los procesos Erlang son muy ligeros y pertenecen al propio lenguaje, no al sistema operativo.
+
+2 -Normalmente se usa para telefonia.
+   Todo es un proceso.
+   Los procesos están aislados fuertemente.
+   La creación y destrucción de los procesos es una operación muy liviana.
+   El envío de mensajes es la única forma de interactuar con los procesos.
+   Los procesos tienen nombres únicos.
+   Si conoce el nombre de un proceso, entonces puede enviarle un mensaje.
+   Los procesos no comparten recursos.
+   El manejo de errores no es local.
+   Los procesos hacen lo que se suponen que hacen o fallan
+
+3- Tiene una implementacion de algoritmos y calculos factoriales. Erlang es conocido en whatsapp,una lenguaje de programación orientado a la concurrencia, algo que es imprescindible en un servicio de chat en tiempo real en el que sus creadores confiaban
+ y esperaban conseguir millones de usuarios como finalmente ha ocurrido.
+
+4-
+
+1> X = 4, Y = 5, X + Y.
+
+9
+
+
