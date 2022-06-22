@@ -1,0 +1,14 @@
+● ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+R:/ Por que hay lenguajes que fueron creados especificamente para aplicaciones que corrieran en un determinado sistema operativo.
+
+● ¿Qué tipo de máquina virtual soporta virtualBox?.
+Maquinas virtuales con sistema operativo windows y linux 
+
+● ¿Qué función cumple el hypervisor en la virtualización?
+R:/Un hipervisor, conocido también como monitor de máquinas virtuales, es un proceso que crea y ejecuta máquinas virtuales. Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+● Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta
+a las demás? 
+R:/No.
+¿por qué?
+La operatividad de una vm no depende de las otras vm's sino del hypervisor, asi que de esta manera cualquier vm podria fallar y las demas siguen funcionando.
