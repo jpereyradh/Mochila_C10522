@@ -1,0 +1,25 @@
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Intel(R) Ethernet Controller (3) I225-V #2
+   Dirección física. . . . . . . . . . . . . : F0-2F-74-1D-23-A7
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+   Vínculo: dirección IPv6 local. . . : fe80::2ca7:1d82:4a0:286d%12(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.106(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesión obtenida. . . . . . . . . . . . : jueves, 23 de junio de 2022 18:52:04
+   La concesión expira . . . . . . . . . . . : jueves, 23 de junio de 2022 21:52:02
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.0.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 233844596
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-28-B0-97-A5-F0-2F-74-1D-23-A7
+   Servidores DNS. . . . . . . . . . . . . . : 192.168.0.1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Su dirección IP privada existe dentro de intervalos específicos de direcciones IP privadas que le reserva la Internet Assigned Numbers Authority (IANA), y nunca debería aparecer en Internet. Hay millones de redes privadas repartidas por el mundo y los dispositivos de todas ellas reciben direcciones IP privadas dentro de estos intervalos:
+
+Clase A: 10.0.0.0 — 10.255.255.255
+
+Clase B: 172.16.0.0 — 172.31.255.255 
+
+Clase C: 192.168.0.0 — 192.168.255.255 
