@@ -1,0 +1,5 @@
+
+para saber el fabricante y producto.
+ASUSTek COMPUTER INC.
+privada clase c
+publica clase b
