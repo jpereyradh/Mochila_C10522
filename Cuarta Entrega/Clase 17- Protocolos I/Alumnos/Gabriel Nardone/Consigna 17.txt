@@ -1,0 +1,14 @@
+Dirección de ipv4: 192.168.1.103
+Tengo dirección clase C porque es la que se utiliza domésticamente.
+Esta clase de ip no está pensada para ser utilizada por pocos usuarios.
+
+Dirección de ipv6: fe80::2ddd:6454:efc4:9049%10
+
+ip pública: 200.127.30.120
+
+Máscara de subred: 255.255.255.0
+
+Mac:3C-7C-3F-11-7F-9A
+Los primeros 3 pares de dígitos son siempre iguales para cada fabricante, y los últimos
+3 identifican el modelo, que son únicos. 
+MODELO Y FABRICANTE: ASUSTek COMPUTER INC.
