@@ -1,0 +1,63 @@
+Clojure:
+
+1. 
+es un dialecto del lenguaje de programación Lisp que utiliza el estilo de programación funcional y es muy adecuado para construir sistemas de procesamiento concurrente (multithreaded). Clojure puede ejecutarse tanto en la máquina virtual de Java (JVM) como en el CLR de .Net, e incluso se puede compilar hacia Javascript.
+
+El modelo de compilación de Clojure preserva al máximo la naturaleza dinámica de Clojure, a pesar de las limitaciones de recarga de código de Java.
+
+2.
+Clojure es un lenguaje de programación de propósito general. Lo utilizan muchas empresas, grandes y pequeñas, incluidas Amazon, Staples y Walmart. Es particularmente eficiente en el procesamiento de datos y la programación concurrente, dos procesos que cada vez son más relevantes en informática.
+
+3.
+IDE's:
+
+IntelliJ + Cursive
+
+VSCode + Calva 
+
+Atom + proto-repl 
+
+Emacs + CIDER (also Spacemacs + CIDER)
+
+Librerias:
+Pedestal (GitHub)
+Luminus (GitHub)
+
+Otros Frameworks:
+Fulcro (GitHub)
+Duct
+Tadam
+Coast on Clojure (GitHub)
+Hoplon (GitHub)
+
+4.
+La sintaxis es:
+
+(println "suma: "(+ 4 5))
+
+
+
+
+
+Kotlin:
+
+1.
+Kotlin en un lenguaje de programación de alto nivel, estáticamente tipado, compilado e interpretado, al igual que lenguaje de programación Java se compila Bytecode y también es interpretado por máquina virtual de Java, pero es independientemente de Java.
+
+2.
+Si has oído hablar de Kotlin seguramente sea en el desarrollo de Android, pues desde el año 2019 Google se ha declarado Kotlin First es decir, los nuevos desarrollos se harán para Kotlin y una vez terminados se implementarán en Java. Esto hizo que el sector móvil se diese cuenta de la importancia de dicho lenguaje y se centrara en él. Es por ello que actualmente más del 80% de las 1000 apps más populares para Android usan Kotlin.
+
+3.
+Framework:
+Spring: Posiblemente uno de los frameworks más populares en el desarrollo del server-side y desde la versión 5.0 es compatible con Kotlin.
+Ktor: Creado también por JetBrains lo que significa que su integración será completa. Se definen como un sistema que no añade restricciones sobre la tecnología que uses en tu proyecto, asíncrono (aprovechando las famosas corrutinas de Kotlin) y testable ya que nos proveerá de varias herramientas que nos simplificará el desarrollo de los test.
+JavaLin: A diferencia de los anteriores destaca por su ligereza y simpleza, pero que no te engañen, más de una empresa grande lo utiliza. Entre ellas Microsoft, Uber y Revolut.
+
+
+4.
+fun main(args: Array<String>) {
+    var number = 4
+
+    number += 5   // number = number*5
+    println("number  = $number")
+}
