@@ -1,0 +1,5 @@
+Respuestas
+-Sirve para saber el fabricante y producto.
+-MAC: Liteon Technology Corporation.
+-Privada clase c.
+-Pública clase b.
