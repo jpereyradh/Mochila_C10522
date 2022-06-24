@@ -1,0 +1,11 @@
+Dirección IP Pública: 181.209.89.78
+Dirección IP Privada y su Máscara de subred: 192.168.0.101 - 255.255.255.0
+Dirección MAC: C8-E2-65-7C-6A-37 
+
+¿ La IP pública y privada de qué clase son ?
+Ambas son clase C
+
+¿ Qué información puedo obtener de la dirección MAC? 
+
+
+Marca de placa de red: Intel Corporate
