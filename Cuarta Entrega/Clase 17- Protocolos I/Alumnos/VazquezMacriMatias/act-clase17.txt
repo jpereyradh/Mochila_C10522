@@ -1,0 +1,6 @@
+Mis direcciones:
+
+Direccion Red privada (ipv4):192.168.0.15 (tipo c ya que comienza con 192, se caracteriza por ser utilizada para redes domesticas)
+Máscara de subred: 255.255.255.0
+Direccion mac:A0-AF-BD-D2-97-F9 (los primeros 3 pares de números nos sirven para identificar al fabricador de la marca, los ultimos 3 para identificar el modelo. NO pueden existir 2 modelos iguales) Segun macvendors es Intel corporate.
+direccion ip pública: 181.228.59.173
