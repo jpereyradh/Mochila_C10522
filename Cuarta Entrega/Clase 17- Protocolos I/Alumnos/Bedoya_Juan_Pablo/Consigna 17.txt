@@ -1,0 +1,9 @@
+	
+	IP PUBLICA: La ip publica es clase b
+	IP PRIVADA: La ip privada es clase c 
+	MAC: Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC (AzureWave Technology Inc)
+
+	
+	
+	
+	Padlet: https://padlet.com/PedagogiaDH/7ya5h1z3vo69rydp
