@@ -1,0 +1,38 @@
+¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje? 
+
+* Swift tiene una ejecucion de interpretacion por linea.
+* Rust tiene una ejecucion por compilacion.
+------------------------------------------------------------------------------------------------------------------------------------------
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+
+* Rust es un lenguaje de programación compilado, de propósito general y multiparadigma que está siendo desarrollado por Mozilla.
+  Ha sido diseñado para ser "un lenguaje seguro, concurrente y práctico".
+
+* Swift es un intuitivo lenguaje de programación creado por Apple que permite diseñar apps para iOS, Mac, el Apple TV y el Apple Watch. 
+  Está pensado para dar a los desarrolladores más libertad que nunca.
+-------------------------------------------------------------------------------------------------------------------------------------------
+¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una 
+librería o framework famoso del mismo.
+* Swift  IntelliJ IDEA de JetBrains
+* Rust Rocket
+-------------------------------------------------------------------------------------------------------------------------------------------
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación 
+matemática: 
+○ x = 4
+○ y = 5 
+○ z = x + y
+
+*Swift
+var x = 4
+var y = 5
+var z = x + y
+print(z)
+
+*Rust
+fn main() {
+   let x = 4 ;
+   let y = 5;
+
+   let z = x + y;
+   println!("z: {} ",z);
+}
