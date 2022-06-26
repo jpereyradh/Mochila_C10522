@@ -1,0 +1,17 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?
+
+1. Los lenguajes de programación pueden ser utilizados en cualquier sistema para escribir el código fuente que queramos, siempre y cuando tengamos un editor de texto o IDE compatible con el lenguaje y el sistema. El problema se puede dar al ejecutar la aplicación que programemos, si el lenguaje que utilizamos es compilado. En este caso, si compilamos el código fuente, el programa resultante solo podrá ejecutarse correctamente en una máquina de similar arquitectura del CPU y sistema operativo que la de la máquina en la que se compile el código fuente.
+
+2. ¿Qué tipo de máquina virtual soporta virtualBox?
+
+2. De sistema.
+
+3. ¿Qué función cumple el hypervisor en la virtualización?
+
+3. Su función es asignar parte de la memoria, disco rígido, CPU y otros recursos físicos. Se llama hypervisor al lugar en dónde la máquina virtual es creada.
+
+4. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta
+a las demás? ¿por qué?
+
+4. No afectaría a las demás, porque cada máquina virtual es independiente y está aislada de las demás.
