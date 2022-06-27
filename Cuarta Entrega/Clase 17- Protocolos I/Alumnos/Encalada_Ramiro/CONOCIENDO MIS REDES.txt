@@ -1,0 +1,24 @@
+Que direcciones necesitamos averiguar :
+
+Dirección IP Pública: 181.31.54.180 (Clase B)
+
+Dirección IP Privada:192.168.56.1(Clase C)
+  
+Máscara de subred: 255.255.255.0
+
+Dirección MAC (Dirección física): B4-B6-76-0D-07-D7
+
+
+   
+
+Dadas nuestras direcciones IP y las máscaras de red,
+
+¿ La IP pública y privada de qué clase son ?
+Clase B y clase C, respectivamente
+
+¿ Qué información puedo obtener de la dirección MAC?
+B4-B6-76-0D-07-D7, de los tres primeros elementos (B4-B6-76) puedo identificar al fabricante y con los tres ultimos (0D-07-D7) puedo identificar a mi equipo
+
+
+Vamos a ingresr a https://macvendors.com/ y verificar que marca de placa de red tenemos
+Intel Corporate
