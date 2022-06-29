@@ -1,0 +1,34 @@
+PHYTON
+Lenguaje interpretado
+
+
+PARA QUÉ SE USA-
+
+El lenguaje de programación Python es ampliamente utilizado por empresas de todo el mundo para construir aplicaciones web, analizar datos, automatizar operaciones y crear aplicaciones empresariales fiables y escalables.
+
+
+
+LIBRERIAS-(Código ya escrito) 
+Numpy, Pandas y Matplotlib 
+
+
+
+x=4
+
+y=5
+
+z=x+y
+
+print(z)
+
+..................................................................
+
+DENO
+Lenguaje interpretado
+
+Es un runtime para Javascript y TypeScript está basado en el motor de Javascript V8 y en el lenguaje de programación Rust. Creado por Ryan Dahl, creador original de Node.js, y está centrado en la seguridad y productividad.?
+
+El JavaScript Runtime proporciona características adicionales a nuestra aplicación en el tiempo de ejecución, siendo básicamente el responsable de hacer que JavaScript sea asíncrono y no bloqueante
+
+PARA QUÉ SE USA
+Se usa para servidores web, cómputos científicos.
