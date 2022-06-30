@@ -15,7 +15,7 @@ El video esta restringido en varios paises, al usar vpn disfrazo mi ip y le hago
 
 3. Utilizando Tor ¿pudimos localizar la IP ? 
 
-Si, pero no era para nada similar a la publica o con vpn
+Si, pero no era para nada similar a la publica o con vpn y su localizacion era algo.. rara
 
 -PRUEBA DE VELOCIDAD-
 
