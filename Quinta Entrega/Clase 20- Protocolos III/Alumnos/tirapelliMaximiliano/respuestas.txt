@@ -1,0 +1,43 @@
+ip: 186.xx.x0.x0 { son iguales }
+opera : 186.xxx.x0.x0 { son iguales }
+opera con vpn : 77.111.246.40
+ubicacion 	
+Latitud	37.750999450684
+Longitud	-97.821998596191
+ISP	Opera Mini Proxy
+tor: 89.58.38.0
+Latitud 	0
+Longitud 	0
+ISP 	netcup GmbH
+son diferentes las ip
+el video con opera sin vpn no se ve, video no disponible.
+opera con vpn se ve brest vs psg
+con tor sin vpn no
+tor no geolocaliza
+velocidad 54 Mb
+opera sin vpn
+ DOWNLOAD Mbps
+53.34
+ UPLOAD Mbps
+21.44
+Ping ms  12  397  19
+
+con vpn 
+  DOWNLOAD Mbps
+1.10
+ UPLOAD Mbps
+10.36
+Ping ms  307  309  311
+
+Tor
+ Download Mbps
+2.55
+Upload Mbps
+0.88
+ Ping 470 1350
+
+Si son diferentes
+por el vpn 
+El ping, la unidad de medida. A la hora de medir esa latencia utilizamos el ping, que se mide en milisegundos, el tiempo que tarda en realizar la comunicación tu conexión local con un equipo remoto en la red IP.
+si varia,
+La causa principal por la que aparecen problemas de velocidad en la VPN es que haya algún fallo con el servidor. Por ejemplo puede ocurrir que esté demasiado lejos. Pueden estar repartidos por cualquier parte del mundo y, según donde nos encontremos, puede ser mejor una opción que otra. Normalmente las VPN tienen múltiples opciones.
