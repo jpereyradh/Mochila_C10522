@@ -1,0 +1,18 @@
+1- Opera ip sin vpn : 168.227......
+2- ip con vpn : 77.111.246.40
+3- Direccion con vpn : geolocalizacion en estados unidos
+
+1- las ip no son las mismas
+2- no no se puede ver sin vpn, y con vpn no me carga la pagina.
+3 - con vpn : subida:10mbps bajada:1.58mbps ping:199ms
+4- sin vpn: subida:21.47mbps  bajada:23,75 mbps ping: 4ms.
+
+1- con tor mi ip es 185.220.101.35
+2- utilizando tor no pude localizar la ip
+3 - speed test tor: subida:9.02mbps bajada:9.50mbps ping:427ms
+
+1- las velocidades son diferentes porque es seguridad a costa de rendimiento, tambien porque cambia la geolocalizacion y al cambiarla demoras mas en conectar al servidor.
+
+2-El ping es una unidad de medida que sirve para medir la latencia.
+
+3-El ping varia porque te cambia de servidor seria una ruta mas larga la que tienen que recorrer los datos 
