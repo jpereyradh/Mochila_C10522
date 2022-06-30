@@ -1,0 +1,61 @@
+-PRUEBA DE IP-
+
+ip con vpn: 77.111.246.40
+ip con tor: 89.58.16.25
+
+-PREGUNTAS 1-
+
+1. Las IP Publicas son las mismas?
+No. Una conexión VPN establece una conexión segura entre usted y la internet. A través de la VPN, todo su tráfico de datos se transmite a través de un túnel virtual cifrado. Esto disfraza su dirección IP cuando utiliza internet, lo que vuelve invisible su ubicación para todos.
+
+2. Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, 
+¿que es lo que sucedió?¿Por qué?
+
+El video esta restringido en varios paises, al usar vpn disfrazo mi ip y le hago pensar que estoy desde un pais disponible
+
+3. Utilizando Tor ¿pudimos localizar la IP ? 
+
+Si, pero no era para nada similar a la publica o con vpn
+
+-PRUEBA DE VELOCIDAD-
+
+Sin VPN: 
+BAJADA Mbps
+944.63
+
+SUBIDA Mbps
+904.17
+
+Ping ms  2
+
+Con VPN:
+DOWNLOAD Mbps
+2.20
+
+UPLOAD Mbps
+16.03
+
+Ping ms  92
+
+Desde Tor:
+Download Mbps
+3.60
+
+Upload Mbps
+4.87
+
+Ping ms 510 
+
+-PREGUNTAS 2-
+
+1. ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+Por la conexion vpn y las capas de encriptado en el caso de Tor
+
+2. ¿Que significa el valor del ping?
+
+el ping es la medida que se ocupa para medir la latencia y es expresado en milisegundos (o en su abreviación ms). Esto significa que a medida que el ping sea más bajo, mejor.
+
+3. El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+Al conectarse a vpn y disfrazar la ip la velocidad de internet se ve afectada, lo mismo con Tor pero en mayor medida por las capas de encriptado
