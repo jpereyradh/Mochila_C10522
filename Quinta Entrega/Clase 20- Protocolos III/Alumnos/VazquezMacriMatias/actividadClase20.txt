@@ -1,0 +1,53 @@
+1-Direccion IP:
+
+Esta varía ya que la red pública es la que tiene el router que me proporciona mi proveedor de internet, geolocalizada en mi hogar. La Vpn justamente tiene como objetivo engañar a los servidores web haciendo creer que mi direccion ip es otra. En este caso se encontraba alojada en estados unidos. Por último la tor cambia también la direccion ip ya que justamente uno de los puntos fuertes de la utilización de la red, el anonimato del usuario.
+
+En cuanto al video, el mismo estaba restringido para Argentina, motivo por lo que no pudo verlo desde la red pública. En cambio con la vpn, al estar en estados unidos, pude acceder a el. Mediante TOR no funcionó.
+
+Red pública: 181.228.59.173
+
+VPN: 77.111.246.40
+
+TOR:185.220.102.252
+
+2- Speedtest:
+
+La red pública mostro los datos de subida,bajada y ping acorde al servicio que tengo contratado de internet.
+
+El VPN al estar "cambiando" mi dirección ip por otra, pierde mucho rendimiento y solo me toma los datos adjuntados. Sube además considerablemnte el ping (tiempo de respuesta a la web).
+
+El TOR mantuvo los datos de bajada, redució a la mitad el de subida, y subió considerablemente el ping. Esto se debe a que el mensaje pasa por al menos 3 nodos de la red encriptando y desencriptandose, por lo que pierde rapidez el proceso.
+
+Red pública: 181.228.59.173 
+
+Bajada:133.12Mbps
+
+Subida:28.29Mbps
+
+Ping: 20ms
+
+VPN: 77.111.246.40
+
+Bajada:0.99Mbps
+
+Subida:9.66Mbps
+
+Ping: 276ms
+
+TOR:185.220.102.252
+
+Bajada: 133.12Mbps
+
+Subida:11.55Mbps
+
+Ping:770ms
+
+
+Video
+
+Red pública: Nodeja esta bloqueado por país.
+
+VPN: Deja ya que la ip se encuentra en usa.
+
+TOR: No deja.
+
