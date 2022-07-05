@@ -1,0 +1,3 @@
+Mi ip publica es: 191.82.41.26
+Mi ip privada es: 192.168.1.68
+Mi mascara de subred es: 255.255.255.0
