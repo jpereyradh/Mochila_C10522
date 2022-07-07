@@ -1,0 +1,14 @@
+	
+	
+	IP LOCAL: clase C
+
+	Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.23
+	Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+
+	IP PUBLICA: clase C
+	200.45.168.131
+
+	MAC:
+	30-9C-23-16-89-A7
+	PLACA DE RED:
+	Micro-Star INTL CO., LTD.
