@@ -1,0 +1,1 @@
+ privada Clase C 192.168.56.1   publica clase B 190.133.84.231

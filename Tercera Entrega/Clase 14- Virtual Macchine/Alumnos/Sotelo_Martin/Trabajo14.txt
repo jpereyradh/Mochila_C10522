@@ -1,0 +1,14 @@
+1-c++ tiene un lenguaje compilado(lenguaje compilado requiere un paso adicional antes de ser ejecutado, la compilación, que convierte el código que escribes a lenguaje de máquina)
+Por otra parte Python es un lenguaje interpretado(lenguaje interpretado, por otro lado, es convertido a lenguaje de máquina a medida que es ejecutado)
+
+2-El lenguaje c++ es utilizado para el desarrollo de  navegadores WEB, Sistemas operativos, Bases de datos, bibliotecas, aplicaciones gráficas, nubes, videojuegos, compiladores, etc
+
+Python se utiliza p  para construir aplicaciones web, analizar datos, automatizar operaciones y crear aplicaciones empresariales fiables y escalables.
+
+3-Para python se recomienda el IDE Wing, este  proporciona la mayoría del conjunto de herramientas y características necesarias para la programación en Python
+
+en cuanto a framework el mas usado es django, este framework web ha sido durante años el más popular para trabajar con Python
+
+En C++ se emplea Dev-C++ que es un entorno de desarrollo integrado (IDE) para programar en lenguaje C/C++
+
+Como framework podemos utilizar Qt es un framework de desarrollo de aplicaciones multiplataforma. Algunas de las aplicaciones más conocidas desarrolladas con Qt son KDE, Opera, Spotify, Teamviewer y Skype.
