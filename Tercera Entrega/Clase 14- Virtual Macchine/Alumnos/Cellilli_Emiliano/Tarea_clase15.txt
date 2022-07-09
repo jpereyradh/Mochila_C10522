@@ -1,0 +1,6 @@
+Ambos lenguajes son compilados.
+Asimismo, ambos lenguajes se utilizan para trabajar en el backend.
+Java, en especial para servicios y batch; y C# para el desarrollo de compiladores, intérpretes, editores, sistemas operativos, juegos, se entiende como un lenguaje de propósito general.
+Tanto Java como C# pueden ser utilizados en varios editores de texto e IDEs, algunos que podemos nombrar son: Visual Studio Code, Sublime Text y VIM.
+Entre las librerías más útiles para C# podemos nombrar para gestión de tiempo (time.h) y para cálculos matemáticos (math.h). Entre los frameworks más usados para C# tenemos a ASP.NET.
+Entre los frameworks más famosos de Java podemos nombrar a Spring, Struct y Hibernate. Entre sus librerías más famosas tenemos a las de MySQL jdbc, Apache Commons y Guava.

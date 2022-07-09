@@ -1,0 +1,4 @@
+a) Porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, la arquitectura del procesador y la interpretacion que le de el sistema operativo.
+b) Los sistemas operativos soportados se encuentran Linux, Mac OS x, OS/2 warp, M.windows y solaris/open solaris.
+c)Un hipervisor permite que un ordenador host preste soporte a vairas maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como memoria y el procesamiento. 
+d) Las maquinas virtuales se ejecutan en un mismo servidor apra ejecutar varias instancias de la misma aplicacion de forma separada. De este modo, si una de ellas falla, no afectara el funcionamiento del resto. 
