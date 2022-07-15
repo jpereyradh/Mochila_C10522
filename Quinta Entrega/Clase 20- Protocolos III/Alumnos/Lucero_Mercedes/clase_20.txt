@@ -1,0 +1,36 @@
+IP pública
+
+- Sin VPN: ***.***.**.** - Lago Puelo
+- Con VPN: 77.111.246.40 - United States
+- Con red TOR: 193.111.248.108 - Anonymous Proxy
+----
+Video:
+Sin VPN: No se puede acceder.
+Con VPN: Sí pude ver.
+----
+Velocidades:
+- Sin VPN: D: 3 Mb - U: 1.5 Mb - 43ms
+- Con VPN: 0.36 - 0.64 - 568ms
+- Con red TOR: Se me quedó "finding optimal server"
+
+-----------
+
+¿Las ip públicas son las mismas? ¿por qué?
+No. Porque tanto la red TOR como la VPN ocultan nuestra ip pública del resto de usuarios de internet. En el caso de la VPN la IP que nos devuelve corresponde a un servidor de otro lugar que forma parte de la VPN.
+
+Video
+Sin VPN el video no se pudo ver, ya que está bloqueado para Argentina. Dado que la VPN nos hace ver como si estuviéramos en EEUU, es posible verlo.
+
+Usando TOR, pudimos localizar IP?
+No se pudo localizar la IP porque la red TOR envía la información a través de nodos TOR sin saber de dónde vienen, únicamente contienen el mensaje cifrado. Entonces al hacer geolocalización, el sistema no puede ver la localización de mi IP, además de que el dato de mi IP no es el real.
+
+-----------
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Las velocidades son distintas porque al pasar por distintas formas de enrutamiento, la velocidad es cada vez menor. En el caso sin VPN, las velocidades y los pings son los máximos porque la conexión es directa con el receptor del mensaje. Con VPN y TOR, la conexión va pasando por distintas rutas (en el caso de VPN por la LAN de otro lugar, en el caso de TOR por distintos nodos TOR).
+
+¿Que significa el valor del ping?
+El valor del Ping es una demora que se produce entre el envío de información desde un origen hasta que llega a su destino. El término se creó en base a radares, que tienden a enviar un pulso y observar el tiempo que tarda en volver esa señal.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+El valor del ping cambia sustancialmente, desde un ping rápido sin VPN hasta un ping muy lento en red TOR. Esto sucede porque en cada caso, las conexiones están compuestas por distintos enrutamientos, en algunos casos son muy extensos con la red TOR, que tiene que pasar por distintos nodos antes de llegar a destino. En la conexión sin VPN, la ruta del paquete es la óptima y la más rápida.

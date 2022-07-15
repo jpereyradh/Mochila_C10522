@@ -1,0 +1,21 @@
+● Descripción del SO
+
+Debian es un SO con base Unix de software libre. No es el más actualizado pero es la versión más estable de todos los Unix. Nació en 1993,
+
+● ¿Es open source o con licencia ?
+Open Source
+
+● ¿Cuales son los recursos de Hard que tiene la MV? Si no se pueden ver, buscar requisitos mínimos en internet
+Sin escritorio: 128 MB mínimos de RAM (512 MB recomendados) y 2GB de disco rígido.
+Con escritorio: 256 MB mínimos de RAM (1 GB recomendado) y 10 GB de disco rígido.
+
+● ¿Cómo se accede a la ventana de comandos?
+Ctrl + Alt + T
+
+● ¿Puedo instalar aplicaciones?¿Por que?
+Sí se puede.
+
+● ¿Hay juegos instalados?
+Preinstalados no, pero hay paquetes instalables que contienen juegos, y hay otros juegos que son soportados por esta distribución de Unix.
+
+● Capturar una imagen del file explorer (ejemplo)

@@ -1,0 +1,5 @@
+El uso que le va a dar Marcelo es únicamente para Office, por lo que un procesador sencillo como el intel i3 va a ser útil para él.
+
+Matilda, que lo va a usar para gaming, necesita un procesador de alta performance como el ryzen 5 3600, procesador típico para gaming. Tiene más cores y threads que el A8, un clock más rápido y una memoria caché más amplia.
+
+El hermano mayor necesita hacer edicion de video, por lo que un AMD a8 le sirve muy bien, además tiene procesador de gráficos interno.
